@@ -253,17 +253,17 @@
 2. **What is a Requirements Specification?**
 
     - [ ] A process, how the requirements are written (specified)
-    - [ ] A product, a written specification of the requirements
-    - [ ] Both
+    - [ ] A product, a written specification of the requirements **---**
+    - [ ] Both **---**
     
     > That's not quite right. Review the lecture "Why do we need requirements?"
     
     - [ ] Neither
 
-3. **What is the recommended amount of time to spend on the requirements stage?**
+3. What is the recommended amount of time to spend on the requirements stage?
 
     - [ ] 0%
-    - [ ] 3-5%
+    - [x] 3-5%
     - [ ] 10%
     - [ ] 20%
     
@@ -313,7 +313,7 @@
     - [ ] event-based
     - [ ] blackboard
     - [ ] pipe-and-filter
-    - [ ] client-server
+    - [ ] client-server **---**
     - [ ] layered
   
 10. Which of the following models is best suited for a system that includes several subsets of functionality that are used in more than one area of the system?
@@ -326,7 +326,7 @@
 
 11. **Which of the following models is best suited for a system that includes much functionality which would not necessarily need to have much interaction from a centralized service?**
 
-    - [ ] event-based
+    - [ ] event-based **---**
     - [ ] client-server
     - [ ] pipe-and-filter
     - [ ] layered
@@ -335,6 +335,6 @@
 12. **Which of the following would be considered a sub-system, rather than a module?**
 
     - [ ] A set of classes which convert various values based on environment or parameter information
-    - [ ] A set of classes which generates reports
+    - [x] A set of classes which generates reports
     - [ ] A class which provides a service (e.g. AccountCreationService)
     - [ ] A class which represents the paying customer
