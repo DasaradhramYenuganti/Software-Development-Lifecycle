@@ -76,3 +76,15 @@
     - [x] Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
     - [ ] A user shall be able to use the online banking system securely.
 
+# Other
+
+1. Non-functional requirements describe (check ALL that apply):
+
+    - [x] System Design Constraints.
+    > That's right! System design constraints like using a specific tool for designing or managing the project is a non-functional requirement.
+    - [x] Quality related constraints like security, performance, and usability
+    
+    > That is correct! How secure the system is as well as the expected system performance are all non-functional requirements. They aren't meant to address a specific function in the system. They are instead made to enforce certain constraints or expectations on system in general.
+    
+    - [ ] Intended output or result of the system, such as, computing the shortest path between two points in a graph.
+    > Incorrect! The shortest path between two points is a computation of some functional requirement of the system.
