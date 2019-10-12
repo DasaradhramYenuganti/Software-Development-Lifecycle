@@ -192,6 +192,39 @@
     
     > False! This model is usually used when there are a number of different events that could happen in the system which needs to be propagated to a specific component to handle it.
 
+# 8. Software Architecture: Process
+
+1. The difference between subsystems and modules are:
+
+    - [x] Subsystems can independently comprise the business logic by itself while modules can't.
+    
+    > True! This is a key difference between modules and subsystems. In fact, subsystems are made of different modules, not the other way around.
+    
+    - [ ] Subsystems can communicate with other subsystems while modules cannot communicate with other modules.
+    - [ ] All of the above.
+
+2. Software quality attributes that we care about during software architecture are:
+
+    - [x] Performance.
+    
+    > Correct! Deciding on specific hardware can greatly impact the performance of the software.
+    
+    - [x] Reliability.
+    > Correct! Just like security, planning a backup procedure address reliability issues for example.
+    - [x] Testability.
+    > Correct! Breaking the software into components help a lot with how testability is going to be carried on the software.
+    - [x] Security.
+    > Correct! Things like server configuration and which operating systems will be used can greatly impact the security of the software to be built.
+    - [x] Usability.
+    > Correct! Things like how easily a user can use the application should be addressed while working on the software architecture.
+
+3. Software architecture concerns itself with both estimation and quality but not partitioning.
+
+    - [ ] True.
+    - [x] False.
+    
+    > Correct! Software architecture is also concerned about partitioning of the software. In fact this partitioning impacts a lot other attributes and the later operation of the software.
+
 # Other
 
 1. Non-functional requirements describe (check ALL that apply):
@@ -204,3 +237,104 @@
     
     - [ ] Intended output or result of the system, such as, computing the shortest path between two points in a graph.
     > Incorrect! The shortest path between two points is a computation of some functional requirement of the system.
+    
+    
+# Final Test 
+
+## Requirements and Architecture
+
+1. Which of the following is considered the most difficult in the software development process?
+
+    - [x] Accurately identifying user needs
+    - [ ] Determining the accurate market price for the finished product
+    - [ ] Testing the solution with users
+    - [ ] Developing a Java program to meet the designed solution
+
+2. **What is a Requirements Specification?**
+
+    - [ ] A process, how the requirements are written (specified)
+    - [ ] A product, a written specification of the requirements
+    - [ ] Both
+    
+    > That's not quite right. Review the lecture "Why do we need requirements?"
+    
+    - [ ] Neither
+
+3. **What is the recommended amount of time to spend on the requirements stage?**
+
+    - [ ] 0%
+    - [ ] 3-5%
+    - [ ] 10%
+    - [ ] 20%
+    
+4. Which of the following is matches the term to the correct definition?
+
+    - [ ] Requirements - solution properties designed to solve problem; Specification - user needs in user language
+    - [x] Requirements - user needs in user language; Specification - solution properties designed to solve problem
+    
+5. Which of these is a user requirement?
+
+    - [x] Allow the user to post a message to Facebook
+    - [ ] Use the MariaDB database for internal data persistance
+    - [ ] Retry posting the message up to 3 times every 5 minutes if the post is rejected by the server
+    - [ ] Allow an authorized user to post a message of no more than 136 characters to the Facebook POST API   
+    
+6. Which of the following is **NOT** an example of a non-functional requirement.
+
+    - [ ] The developing team shall use the spiral model of software development lifecycle.
+    - [x] The user shall be able to select the course number.
+    - [ ] The messages between the client and server shall be in YAML 1.2 format.
+    - [ ] Communication between the client and server will be expressed in EBCDIC endoding.
+    
+    > User desire captured, that's a user requirement!
+
+7. What element(s) of the WRSPM model belong in the environment (including the overlap between environment and system)?
+
+    - [ ] W
+    - [ ] W,R
+    - [x] W,R,S
+    - [ ] R,S
+    - [ ] R,S,P
+    - [ ] S
+    - [ ] S,P
+    - [ ] S,P,M
+    - [ ] P,M
+    - [ ] M
+
+8. Which of these is proper definition of software architecture?
+
+     - [ ] integrating small systems with no individual business value into larger ones
+     - [x] partitioning large systems into smaller ones that can be created seperately, have individual business value, and can be easily integrated
+     - [ ] planning and pricing the resources involved with developing a large-scale software system, including presenting such plans and budgets to senior level executives for funding
+     - [ ] all of the above
+     
+9. **Which of the following models is best suited for a system that has a very complex set of concepts, which are widely used across functionality sets?**
+
+    - [ ] event-based
+    - [ ] blackboard
+    - [ ] pipe-and-filter
+    - [ ] client-server
+    - [ ] layered
+  
+10. Which of the following models is best suited for a system that includes several subsets of functionality that are used in more than one area of the system?
+
+    - [ ] layered
+    - [ ] blackboard
+    - [ ] event-based
+    - [x] pipe-and-filter
+    - [ ] client-server
+
+11. **Which of the following models is best suited for a system that includes much functionality which would not necessarily need to have much interaction from a centralized service?**
+
+    - [ ] event-based
+    - [ ] client-server
+    - [ ] pipe-and-filter
+    - [ ] layered
+    - [ ] blackboard
+
+12. **Which of the following would be considered a sub-system, rather than a module?**
+
+    - [ ] A set of classes which convert various values based on environment or parameter information
+    - [ ] A set of classes which generates reports
+    - [ ] A class which provides a service (e.g. AccountCreationService)
+    - [ ] A class which represents the paying customer
