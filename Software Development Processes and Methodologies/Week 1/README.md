@@ -75,6 +75,27 @@
     - [ ] The user shall be able to check the current balance of the checking accounts that he/she own.
     - [x] Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
     - [ ] A user shall be able to use the online banking system securely.
+  
+# Test 4
+
+## Non-functional Requirements
+
+1. A constraint to only use Microsoft Project during the system development is a non-functional requirement.
+
+    - [x] True
+    
+    > That is right! Constraints on the development of the system, such as using a specific tool, are non-functional requirements.
+    
+    - [ ] False
+
+2. Which of the following are non-functional requirements:
+
+    - [ ] Some product requirements, like using a specific encryption protocol, are non-functional requirements.
+    - [ ] Organization requirements imposed by the company, like a specific coding style, are non-functional requirements.
+    - [ ] External requirements imposed by external organization, like using a specific development style, are non-functional requirements.
+    - [x] All of the above.
+    
+    > Non-functional requirements can come in many flavors. They can be imposed by external factors or organizational factors and they can also refer to some feature of the system. But the key point to note here is that non-functional requirements are not intended to describe the computation or function of the system.
 
 # Other
 
