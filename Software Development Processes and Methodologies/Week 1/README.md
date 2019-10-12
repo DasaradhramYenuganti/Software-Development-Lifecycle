@@ -96,6 +96,29 @@
     - [x] All of the above.
     
     > Non-functional requirements can come in many flavors. They can be imposed by external factors or organizational factors and they can also refer to some feature of the system. But the key point to note here is that non-functional requirements are not intended to describe the computation or function of the system.
+    
+# Test 5
+
+## WRSPM Quiz
+
+1. WRSPM stands for:
+
+    - [ ] Wide, Requirement, Software, Planning and Model.
+    - [x] World, Requirement, Specification, Program and Machine.
+    - [ ] None of the above.
+    
+2. Looking at the difference between user requirements and system specifications in the ATM example, we know that swiping the card and prompting for a PIN are requirements, while reading the card details and a 4-digit PIN are specifications.
+
+    - [x] True
+    - [ ] False
+
+3. The purpose of the WRSPM model is to ensure that:
+
+    - [x] specifications meet the requirements.
+    > True! It is crucial that the specifications truly represent the requirements and not the other way around.
+    - [ ] requirements meet specifications.
+    > False! It is always important to map our specifications to the requirements so we know that we are implementing the right product.
+    - [ ] None of the above.
 
 # Other
 
