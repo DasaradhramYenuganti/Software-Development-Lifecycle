@@ -1,6 +1,4 @@
-# Test 1
-
-## What software development Looks Like?
+# 1. What software development Looks Like?
 
 1. Which of the two is the software development model that can better respond to changes in the requirements?
 
@@ -19,9 +17,7 @@
     - [x] Misinterpretations of requirement or design can remain undetected until the later phases
     - [ ] It is not suitable for big projects
 
-# Test 2
-
-## Why do we need requirements?
+# 2. Why do we need requirements?
 
 1. Which is the right description about the requirement specification process?
     - [ ] Requirement specification is a process that identifies and specifies the problem and possible solutions to the problem.
@@ -42,10 +38,8 @@
     
     - [ ] Changing the requirement is not possible once the system is fully developed.
     - [x] Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle.
-    
-# Test 3
 
-## Requirements vs Specification
+# 3. Requirements vs Specification
 
 1. Which of the followings are true about requirements and specifications?
 
@@ -75,10 +69,8 @@
     - [ ] The user shall be able to check the current balance of the checking accounts that he/she own.
     - [x] Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
     - [ ] A user shall be able to use the online banking system securely.
-  
-# Test 4
 
-## Non-functional Requirements
+# 4. Non-functional Requirements
 
 1. A constraint to only use Microsoft Project during the system development is a non-functional requirement.
 
@@ -96,10 +88,8 @@
     - [x] All of the above.
     
     > Non-functional requirements can come in many flavors. They can be imposed by external factors or organizational factors and they can also refer to some feature of the system. But the key point to note here is that non-functional requirements are not intended to describe the computation or function of the system.
-    
-# Test 5
 
-## WRSPM Quiz
+# 5. WRSPM Quiz
 
 1. WRSPM stands for:
 
@@ -119,6 +109,44 @@
     - [ ] requirements meet specifications.
     > False! It is always important to map our specifications to the requirements so we know that we are implementing the right product.
     - [ ] None of the above.
+    
+# 6. Software Architecture: Definition
+
+1. A subsystem in an architecture must:
+
+    - [ ] be created separately and can operate individually.
+    - [ ] have business value.
+    - [ ] be integrated with one another or with existing subsystems.
+    - [x] All of the above.
+    
+    > You got it! Indeed subsystems in a good architecture are created separately and can operate independent of each other. They also have their own business value and they can easily integrate with one another and with other existing systems.
+    
+2. Partitioning of a large system into smaller subsystems helps the buy-or-build decision because we can examine each subsystem and reason about possible buy-or-build options for each.
+
+    - [x] True
+    
+    > That is right. Having clear, well-defined subsystem components greatly helps the buy-or-build decision because it is easier to reason about a smaller subsystem than a large one.
+    
+    - [ ] False
+    
+3. A good software architecture is important because:
+
+    - [x] It helps organize the workforce and resources.
+    
+    > Correct! Now that the system is broken into smaller, more-manageable subsystems, the workforce and resources can be allocated
+    
+    - [x] It allows for parallelization in development.
+    
+    > Exactly! Parallelization is now possible over subsystems.
+
+    - [x] It helps build-or-buy decisions.
+    
+    > Correct! Subsystems can now be examined to decide what needs to be built and what can be bought.
+    
+    - [x] It helps with funding decisions.
+    
+    > Correct! Indeed funding decisions are easier now that one can look into individual subsystems.
+    
 
 # Other
 
