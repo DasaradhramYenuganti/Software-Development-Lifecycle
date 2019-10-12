@@ -1,3 +1,12 @@
+# Software Architecture: Models
+
+- Pipe and Filter
+- Blackboard
+- Layered
+- Client-Server
+- Event-based
+
+
 # 1. What software development Looks Like?
 
 1. Which of the two is the software development model that can better respond to changes in the requirements?
@@ -147,6 +156,41 @@
     
     > Correct! Indeed funding decisions are easier now that one can look into individual subsystems.
     
+# 7. Software Architecture: Models
+
+1. A UNIX program where the output of one program is the input of another, is an example of which of the software architecture models below:
+
+    - [ ] Blackboard Model.
+    - [x] Pipe-and-Filter Model.
+    - [ ] Client-Server Model.
+    - [ ] Layered Model.
+    - [ ] Event-based Model.
+    
+2. An online banking system is best modeled by:
+
+    - [ ] Pipe-and-Filter Model.
+    - [ ] Blackboard Model.
+    
+    > False! In this model the blackboard is usually passive. It supports information retrieval rather than actively processing requests that the online banking system generates. Unlike online banking communication, blackboards usually receive then send messages.
+    
+    - [x] Client-Server Model.
+    
+    > That is right! Online banking is best modeled by a client-server architecture, where the bank back-end is the server and the user website is the client.
+    
+    - [ ] Event-based Model.
+    
+3. A vehicle identification and tracking system, where each moving vehicle is tracked and monitored through a shared program, is best modeled by:
+
+    - [ ] Pipe-and-Filter Model.
+    - [x] Blackboard Model.
+    
+    > True! This would be the way to model this system where there are different components communicate with the blackboard.
+    
+    - [ ] Layer Model
+    - [ ] Client-Server Model.
+    - [ ] Event-based Model.
+    
+    > False! This model is usually used when there are a number of different events that could happen in the system which needs to be propagated to a specific component to handle it.
 
 # Other
 
