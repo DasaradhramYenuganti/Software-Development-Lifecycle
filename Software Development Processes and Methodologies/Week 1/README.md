@@ -42,3 +42,37 @@
     
     - [ ] Changing the requirement is not possible once the system is fully developed.
     - [x] Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle.
+    
+# Test 3
+
+## Requirements vs Specification
+
+1. Which of the followings are true about requirements and specifications?
+
+    - [ ] Requirements does not require specification-level refinement.
+    
+    > This should not be selected. Ideally, requirements shall only specify the intent ("what") without involving the specification-level details ("how"), but often, it is hard to separate those two.
+    
+    - [x] Requirements are for users; specifications are for developers.
+    - [x] Requirements shall be written in the user's language; system specifications shall be written in the system language.
+    
+    > Great! We write both of them in natural language so they can easily be reviewed by our non-technical stakeholders (customers/users/management). However, we write the requirements in terms of the user because we focus on defining the problem/need rather than the solution. We write the system specifications in terms of the system as it describes how the system will satisfy the user's need (the requirements) and defines the interfaces between users and the system.
+    
+    - [x] Specifications shall meet the requirements.
+    
+    > Great! Specifications describe how the system meets the requirements and must, therefore, provide a solution for the problem/need described by the requirements (i.e., it should meet the requirements).
+    
+2. The followings can be categorized as (user) requirements? Select two.
+
+    - [ ] Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
+    - [x] A user shall be able to use the online banking system securely.
+    - [x] The user shall be able to check the current balance of the checking accounts that he/she own.
+    - [ ] At the time a query is made to check the current balance of a checking account, the owner of the checking account shall be logged in.
+    
+3. The followings are requirements and specifications of an online banking service. Which of the followings can be categorized as system specifications? Select two.
+
+    - [x] At the time a query is made to check the current balance of a checking account, the owner of the checking account shall be logged in.
+    - [ ] The user shall be able to check the current balance of the checking accounts that he/she own.
+    - [x] Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
+    - [ ] A user shall be able to use the online banking system securely.
+
