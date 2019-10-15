@@ -257,11 +257,11 @@
     > That's not quite right. Review the lecture "Why do we need requirements?"
     
     - [ ] A product, a written specification of the requirements **---**
-    - [ ] Both **---**
+    - [x] Both **---**
     
     > That's not quite right. Review the lecture "Why do we need requirements?"
     
-    - [ ] Neither
+    - [ ] Neither **---**
 
 3. What is the recommended amount of time to spend on the requirements stage?
 
@@ -329,10 +329,10 @@
 
 11. **Which of the following models is best suited for a system that includes much functionality which would not necessarily need to have much interaction from a centralized service?**
 
-    - [ ] event-based **---**
-    - [ ] client-server
+    - [ ] event-based
+    - [x] client-server
     - [ ] pipe-and-filter
-    - [ ] layered **---**
+    - [ ] layered
     - [ ] blackboard
 
 12. Which of the following would be considered a sub-system, rather than a module?
