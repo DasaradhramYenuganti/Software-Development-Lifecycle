@@ -1,4 +1,4 @@
-# Software Architecture: Models
+# 🔴 Software Architecture: Models
 
 - Pipe and Filter
 - Blackboard
@@ -6,7 +6,7 @@
 - Client-Server
 - Event-based
 
-
+# 🔹 Introduction to the course
 # 1. What software development Looks Like?
 
 1. Which of the two is the software development model that can better respond to changes in the requirements?
@@ -26,6 +26,7 @@
     - [x] Misinterpretations of requirement or design can remain undetected until the later phases
     - [ ] It is not suitable for big projects
 
+# 🔹 Requirements
 # 2. Why do we need requirements?
 
 1. Which is the right description about the requirement specification process?
@@ -118,7 +119,8 @@
     - [ ] requirements meet specifications.
     > False! It is always important to map our specifications to the requirements so we know that we are implementing the right product.
     - [ ] None of the above.
-    
+
+# 🔹 Architecture
 # 6. Software Architecture: Definition
 
 1. A subsystem in an architecture must:
@@ -225,7 +227,7 @@
     
     > Correct! Software architecture is also concerned about partitioning of the software. In fact this partitioning impacts a lot other attributes and the later operation of the software.
 
-# Other
+# 🔸 Other
 
 1. Non-functional requirements describe (check ALL that apply):
 
@@ -239,7 +241,7 @@
     > Incorrect! The shortest path between two points is a computation of some functional requirement of the system.
     
     
-# Final Test 
+# 🔴 Quiz: Requirements and Architecture 🔴
 
 ## Requirements and Architecture
 
@@ -257,11 +259,11 @@
     > That's not quite right. Review the lecture "Why do we need requirements?"
     
     - [ ] A product, a written specification of the requirements **---**
-    - [x] Both **---**
+    - [x] Both 
     
     > That's not quite right. Review the lecture "Why do we need requirements?"
     
-    - [ ] Neither **---**
+    - [ ] Neither
 
 3. What is the recommended amount of time to spend on the requirements stage?
 
@@ -327,7 +329,7 @@
     - [x] pipe-and-filter
     - [ ] client-server
 
-11. **Which of the following models is best suited for a system that includes much functionality which would not necessarily need to have much interaction from a centralized service?**
+11. Which of the following models is best suited for a system that includes much functionality which would not necessarily need to have much interaction from a centralized service?
 
     - [ ] event-based
     - [x] client-server
