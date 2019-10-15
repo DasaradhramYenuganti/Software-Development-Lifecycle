@@ -252,7 +252,10 @@
 
 2. **What is a Requirements Specification?**
 
-    - [ ] A process, how the requirements are written (specified)
+    - [ ] A process, how the requirements are written (specified) **---**
+    
+    > That's not quite right. Review the lecture "Why do we need requirements?"
+    
     - [ ] A product, a written specification of the requirements **---**
     - [ ] Both **---**
     
@@ -308,12 +311,12 @@
      - [ ] planning and pricing the resources involved with developing a large-scale software system, including presenting such plans and budgets to senior level executives for funding
      - [ ] all of the above
      
-9. **Which of the following models is best suited for a system that has a very complex set of concepts, which are widely used across functionality sets?**
+9. Which of the following models is best suited for a system that has a very complex set of concepts, which are widely used across functionality sets?
 
     - [ ] event-based
-    - [ ] blackboard
+    - [x] blackboard
     - [ ] pipe-and-filter
-    - [ ] client-server **---**
+    - [ ] client-server 
     - [ ] layered
   
 10. Which of the following models is best suited for a system that includes several subsets of functionality that are used in more than one area of the system?
@@ -329,10 +332,10 @@
     - [ ] event-based **---**
     - [ ] client-server
     - [ ] pipe-and-filter
-    - [ ] layered
+    - [ ] layered **---**
     - [ ] blackboard
 
-12. **Which of the following would be considered a sub-system, rather than a module?**
+12. Which of the following would be considered a sub-system, rather than a module?
 
     - [ ] A set of classes which convert various values based on environment or parameter information
     - [x] A set of classes which generates reports
