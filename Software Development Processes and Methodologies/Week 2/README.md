@@ -64,7 +64,7 @@
     
     > This is the definition of information hiding.
     
-4. **Which of the four aspects of modularity can be described as: How well a module meets a single well-defined goal.**
+4. Which of the four aspects of modularity can be described as: How well a module meets a single well-defined goal.
 
     - [x] Cohesion
     - [ ] Data Encapsulation
