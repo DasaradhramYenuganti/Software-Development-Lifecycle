@@ -66,17 +66,21 @@
     
 4. **Which of the four aspects of modularity can be described as: How well a module meets a single well-defined goal.**
 
-    - [ ] Cohesion
+    - [x] Cohesion
     - [ ] Data Encapsulation
     - [ ] Coupling
     - [ ] Information Hiding
+    
+    > This is the definition of cohesion.
 
-5. **Which of the four aspects of modularity can be described as: Containment of constructs and concepts within a module.**
+5. Which of the four aspects of modularity can be described as: Containment of constructs and concepts within a module.
 
     - [ ] Coupling
     - [ ] Information Hiding
     - [ ] Cohesion 
-    - [ ] Data Encapsulation
+    - [x] Data Encapsulation
+    
+    > This is the definition of data encapsulation.
     
 6. Three aspects of ______ can be described as (1) Decomposability, (2) Composability, and (3) Ease of Understanding.
 
