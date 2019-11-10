@@ -105,3 +105,7 @@
     - [x] Data Encapsulation
     - [ ] Coupling
     - [ ] Information Hiding
+    
+## 3. Software Design: Coupling
+
+1. 
