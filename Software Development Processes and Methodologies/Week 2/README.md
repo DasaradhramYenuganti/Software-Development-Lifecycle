@@ -1,6 +1,12 @@
 - **TMTOWTDI** — there's more than one way to do it
     - There may be many different solutions that can be applied to your specific problem. The most popular solution is always good to consider, but it should not limit the designer's view
 
+**Cutover Strategies**:
+
+   - Hot failover
+   - Warm standby
+   - Cold back-up (storage)
+
 # 🔹 Design
 ## 🔺 1. Software Design: Introduction
 
@@ -435,4 +441,48 @@
     
 ## 🔺 5. Deployment: Cutover Strategies
 
-1. 
+1. The three cutover strategies are...
+
+    - [x] Cold backup
+    - [ ] Hot standby
+    - [ ] Cold failover
+    - [x] Hot failover
+    - [x] Warm standby
+    - [ ] Warm failover
+
+2. If you need to have a cutover strategy where the replacement machine is ready for a full setup and install, then you would choose which of the following cutover strategies?
+
+    - [ ] Hot failover
+    - [ ] Warm standby
+    - [x] Cold backup
+    - [ ] Warm failover
+    
+    > Cold backup storage is when the replacement machine is available in terms of hardware or server, but none of the installation or data replication is done.
+
+3. If you need to have a cutover strategy where the replacement services are ready for the redirection of data with no installation, then you would choose which of the following cutover strategies?
+
+    - [ ] Hot backup
+    - [x] Hot failover
+    > Hot failover is when everything is set up in terms of hardware, the installation is up to date, and most of the data has already been replicated. It is just ready and waiting for a transaction.
+    - [ ] Warm standby
+    > Warm standby is when the machine is running, but still requires an installation. When the machine has full installation and is set up and running, what strategy is that?
+    - [ ] Cold backup
+
+4. If you need to have a cutover strategy where the replacement machine is running and ready for installation, then you would choose which of the following cutover strategies?
+
+    - [ ] Hot failover
+    > Hot failover is when everything is set up in terms of hardware, the installation is up to date, and most of the data has already been replicated. It is just ready and waiting for a transaction.
+    - [x] Warm standby
+    > Warm standby is when the machine is ready for installation.
+    - [ ] Cold backup
+    - [ ] Cold failover
+
+5. There is no difference between load balancing and hot failover.
+
+    - [ ] true
+    - [x] false
+    > Load balancing is when the transaction load is distributed over multiple machines or servers. A hot failover is when there is multiple machines or servers, but the normal transaction load is not distributed - that machine is there for backup in case of failure.
+    
+# 🔹 Testing and Verification
+
+## 🔺 1. Software Testing: Introduction
