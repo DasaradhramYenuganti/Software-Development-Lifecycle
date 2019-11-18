@@ -380,3 +380,35 @@
     - [ ] True.
     - [x] False.
     > This is not always possible. You should always try to minimize side effects, but there are times when side effects are impossible to avoid.
+
+## 🔺 2. Deployment
+
+1. Deployment occurs in the end stage of active development.
+
+    - [x] True
+    - [ ] False
+    
+    > Deployment is the end stage of active development and occurs between testing and product maintenence.
+
+2. Product deployment should encapsulate three main focus areas. What are they?
+
+    - [x] Plan for recovery in case of failure
+    - [x] Planned steps
+    > The focus areas of deployment should include planned steps for deployment, problem areas within those steps, and a plan to recover in case of failure
+    - [ ] Description of the physical environment
+    - [x] Problem areas
+
+3. Concerns to address in your deployment plan include:
+
+    - [ ] Physical environment requirements
+    - [ ] Hardware requirements
+    - [ ] Documentation
+    - [ ] 3rd party software requirements
+    - [ ] Training
+    - [ ] Software being deployed
+    - [ ] Database-related activities
+    - [x] All of the above
+    
+## 🔺 4. Deployment: Rollback
+
+1. 
