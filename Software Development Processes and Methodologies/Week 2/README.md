@@ -486,3 +486,47 @@
 # 🔹 Testing and Verification
 
 ## 🔺 1. Software Testing: Introduction
+
+1. Test data represents possible inputs that are provided to the _____ for the purposes of testing
+
+    - [ ] system
+    - [ ] oracle
+    - [x] both the system and the oracle
+
+2. The oracle uses information provided from test cases to decide the correctness of the software under test
+
+    - [x] True
+    - [ ] False
+
+3. Test cases are composed of _______
+
+    - [x] test data
+    - [ ] system (actual) outputs
+    - [x] expected outputs
+
+4. Manual oracles are sufficient and effective for the majority of real-world applications
+
+    - [ ] True
+    - [x] False
+
+5. Choose the correct True-False pair: An error is the manifestation of a failure. A fault is the manifestation of an error.
+
+    - [ ] True, True
+    - [ ] False, False
+    - [x] False, True
+    - [ ] True, False
+
+6. It is possible for errors to remain undiscovered as long as the erroneous ________ is never used
+
+    - [x] component
+    - [ ] test data 
+    - [ ] test case 
+    - [ ] output
+
+7. Software testing can be used to prove the absense of failures in a module, but not the absense of faults
+
+    - [ ] True
+    > Incorrect
+    >It is impossible to show the absense of faults/error/failures using software testing! The best we can do is to show that such issues exist under certain circumstances.
+    - [x] False
+    
