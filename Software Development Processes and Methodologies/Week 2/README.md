@@ -344,3 +344,39 @@
 
 # 🔹 Implementation
 ## 🔺 1. Implementation
+
+1. Why should you program when you are alert?
+
+    - [ ] Sleep deprivation leads to mistakes.
+    - [ ] Output falls drastically after working 50+ hours per week.
+    - [x] All of the above
+    
+    > All of these are good reasons why you should program when well-rested and alert.
+
+2. Which of the following are examples of 'Write code for people not computers'? Select three.
+
+    - [x] Let your code (variable names, function names, etc.) explain HOW it does what it does.
+    - [x] Choose informative variable names.
+    - [ ] Do not code while sleep deprived.
+    - [x] In your comments, explain WHY the code does what it does.
+
+3. Fill in the blank. Write ____, _____, and _____ before writing functional code.
+
+    - [ ] Comments; Benchmarks; Tips for Use.
+    - [ ] System Specifications; User Guide; Exception Handling.
+    > The user guide is the problem here. While it can be helpful to know how you want the system to run, this is not required before writing the functional code.
+    - [x] Comments; Tests; Exception Handling.
+    > Write the comments, exception handling, and tests before writing functional code. This is how you know your functional code is actually doing what you mean it to do.
+
+4. If you write the same code more than once...
+
+    - [ ] You did something wrong.
+    - [ ] It's okay.
+    - [x] Put that code into a method.
+    > If you write the same code more than once, usually this means you will be writing it again somewhere else. Break that into a small method.
+
+5. True or False: Every method can be written without side effects.
+
+    - [ ] True.
+    - [x] False.
+    > This is not always possible. You should always try to minimize side effects, but there are times when side effects are impossible to avoid.
