@@ -411,4 +411,28 @@
     
 ## 🔺 4. Deployment: Rollback
 
+1. A rollback is the reversal of actions completed during deployment with the intent to never revert a system back to its previous working state.
+
+    - [ ] true
+    - [x] false
+    > The intent is always to revert a system back to its previous working state in a rollback.
+
+2. What are some reasons why you would need a rollback plan?
+
+    - [x] Installation doesn't go as expected.
+    > If installation doesn't go as expected or the problem ends up taking longer to fix than the installation window allows.
+    - [ ] It is the end goal in product deployment.
+    - [x] Fixing the problem ends up taking longer than the window allows.
+    > If installation doesn't go as expected or the problem ends up taking longer to fix than the installation window allows.
+    - [ ] Database management in complex systems.
+    - [ ] All of the above
+
+3. Deployment without a rollback plan should occasionally occur. Especially when the installation involves deleting files.
+
+    - [ ] true
+    - [x] false
+    > Deployment without a rollback plan should never happen. In the case of no possibility of a rollback (i.e. deleting files), the rollback plan should detail this and be given special attention.
+    
+## 🔺 5. Deployment: Cutover Strategies
+
 1. 
