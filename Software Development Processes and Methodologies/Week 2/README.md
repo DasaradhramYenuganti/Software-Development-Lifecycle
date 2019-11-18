@@ -2,7 +2,7 @@
     - There may be many different solutions that can be applied to your specific problem. The most popular solution is always good to consider, but it should not limit the designer's view
 
 # 🔹 Design
-## 1. Software Design: Introduction
+## 🔺 1. Software Design: Introduction
 
 1. Software design is the process of transforming the stated problem into a ready-to-use implementation.
 
@@ -35,7 +35,7 @@
     - [x] True
     - [ ] False
     
-## 2. Software Design: Modularity
+## 🔺 2. Software Design: Modularity
 
 1. Check all that apply: The four aspects of modularity are...
 
@@ -107,7 +107,7 @@
     - [ ] Coupling
     - [ ] Information Hiding
     
-## 3. Software Design: Coupling
+## 🔺 3. Software Design: Coupling
 
 1. Choose the most accurate answer: Low coupling aids in...
 
@@ -216,7 +216,7 @@
     
     > Loose message coupling is exactly what this example defines.
     
-## 4. Software Design: Cohesion
+## 🔺 4. Software Design: Cohesion
 
 1. Choose the most accurate answer: Cohesion describes...
 
@@ -224,6 +224,8 @@
     - [ ] loose coupling.
     - [ ] decomposability.
     - [ ] how changes do not cross boundaries of modules.
+    
+    > Cohesion describes how well everything within a module fits together.
 
 2. Which of the following statements about cohesion is true?
 
@@ -232,11 +234,15 @@
      - [ ] Represents a desirable design attitude.
      - [ ] High cohesion is the aim in software development.
      - [x] All of the above
+     
+     > All of these are true about cohesion.
 
 3. The goal in real-life software development is to aim for object and functional cohesion and anything less than this should be justified.
 
     - [x] True
     - [ ] False
+    
+    > This statement is true. The strongest cohesion isn't always practical or possible, but object and functional cohesion should always be possible.
 
 4. The four types of weak cohesion are:
 
@@ -244,6 +250,8 @@
     - [ ] Communicational, sequential, object, functional
     - [ ] There is no such thing as loose cohesion
     - [x] Coincidental, temporal, procedural, logical association
+    
+    > Weak cohesion types consist of coincidental, temporal, procedural, and logical association.
 
 5. Parts of modules are together in the same file. This is an example of what type of cohesion?
 
@@ -251,6 +259,8 @@
     - [ ] Procedural cohesion
     - [x] Coincidental cohesion
     - [ ] Logical association cohesion
+    
+    > This is an example of weak, coincidental cohesion.
 
 6. Different pieces of code are activated at the same time. This is an example of what type of cohesion?
 
@@ -258,6 +268,8 @@
     - [ ] Procedural cohesion
     - [ ] Logical association cohesion
     - [x] Temporal cohesion
+    
+    > This is an example of weak, temporal cohesion
 
 7. One piece of code runs after the other. This is an example of what type of cohesion?
 
@@ -265,5 +277,70 @@
     - [x] Procedural cohesion
     - [ ] Temporal cohesion
     - [ ] Coincidental cohesion
+    
+    > This is an example of weak, procedural cohesion
 
-8. 
+8. Components do similar but separate things. This is an example of what type of cohesion?
+
+    - [x] Logical association cohesion 
+    - [ ] Temporal cohesion
+    - [ ] Procedural cohesion
+    - [ ] Coincidental cohesion
+    
+    > Logical association occurs when modules/components do logically similar things.
+
+9. The two types of medium cohesion are:
+
+    - [ ] There is no such thing as medium cohesion
+    - [ ] Sequential, logical association
+    - [x] Communicational, sequential
+    - [ ] Coincidental, temporal
+    
+    > Medium cohesion is either communicational or sequential.
+
+10. All elements of a component operate on the same input or produce the same output. This is an example of what type of cohesion?
+
+    - [ ] Sequential Cohesion
+    - [x] Communicational Cohesion
+    
+    > This is a great example of medium, communicational cohesion.
+    
+11. One component's output provides the input to another component. This is an example of what type of cohesion?
+
+    - [ ] Communicational Cohesion
+    - [x] Sequential Cohesion
+    
+    > This is an example of medium, sequential cohesion.
+
+12. The two types of strong cohesion are:
+
+    - [x] Object, functional
+    - [ ] Coincidental, temporal
+    - [ ] Object, strong
+    - [ ] Communicational, sequential
+    
+    > Strong cohesion is either described as object cohesion or functional cohesion.
+
+13. Each operation in a module is provided to allow object attributes to be modified or inspected. This is an example of what type of cohesion?
+
+    - [x] Object Cohesion
+    - [ ] Functional Cohesion
+    
+    > This is an example of strong, object cohesion.
+
+14. Every part of a component is necessary for a single well-defined behavior. This is an example of what type of cohesion?
+
+    - [ ] Object Cohesion
+    - [x] Functional Cohesion
+    
+    > This is an example of strong, functional cohesion.
+
+15. True or False: inheritance strengthens cohesion.
+
+    - [ ] True
+    - [x] False
+    
+    > This statement is false. Inheritance always weakens cohesion. To really understand a component, you must examine the superclass(es).
+
+# 🔹 Implementation
+## 🔺 1. Implementation
