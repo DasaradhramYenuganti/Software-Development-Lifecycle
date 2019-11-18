@@ -1,4 +1,5 @@
 - **TMTOWTDI** — there's more than one way to do it
+    - There may be many different solutions that can be applied to your specific problem. The most popular solution is always good to consider, but it should not limit the designer's view
 
 # 🔹 Design
 ## 1. Software Design: Introduction
@@ -214,3 +215,6 @@
     - [ ] Loose no coupling
     
     > Loose message coupling is exactly what this example defines.
+    
+## 4. Software Design: Cohesion
+
