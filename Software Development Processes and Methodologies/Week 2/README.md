@@ -114,6 +114,8 @@
     - [ ] Decomposability
     - [ ] Abstracting away complex information 
     - [x] ensuring that changes don't cross boundaries of modules
+    
+    > What we hope to gain through low coupling is that changes don't cross the boundaries between modules.
 
 2. Which of the following statements about coupling are true?
 
@@ -123,10 +125,14 @@
     - [ ] Loose coupling is partly achieved through message passing.
     - [x] All of the above
     
+    > All of these are true about coupling.
+    
 3. The goal in low coupling is to ensure that changes don't cross the boundaries of modules.
 
     - [x] true
     - [ ] false
+    
+    > This statement is true. This is the goal with low coupling.
 
 4. The The three types of tight coupling are:
 
@@ -134,24 +140,32 @@
     - [ ] Control; Data Structure; Message
     - [x] Content; Common; External
     - [ ] Data; Message; None
+    
+    > Tight coupling can be content coupling, common coupling, or external coupling.
 
 5. Module A relies directly on local data of module B. This is an example of what type of coupling?
 
     - [ ] Tight external coupling
     - [ ] Tight common coupling
     - [x] Tight content coupling
+    
+    > Tight content coupling is exactly what this example defines.
 
 6. Modules A and B both rely on global data or a global variable. This is an example of what type of coupling?
 
     - [ ] Tight content coupling
     - [x] Tight common coupling
     - [ ] Tight external coupling
+    
+    > Tight common coupling is exactly what this example defines.
 
 7. Modules rely on externally imposed format (or protocol or interface). This is an example of what type of coupling?
 
     - [x] Tight external coupling
     - [ ] Tight content coupling
     - [ ] Tight common coupling
+    
+    > Tight external coupling is exactly what this example defines.
 
 8. The two types of medium coupling are:
 
@@ -159,16 +173,22 @@
     - [ ] Message; None
     - [ ] Content; Common
     - [ ] Data; Message
+    
+    > Medium coupling can be control coupling or data structure coupling.
 
 9. Module A controls the logical flow of module B. This is an example of what type of coupling?
 
     - [ ] Medium data structure coupling
     - [x] Medium control coupling
+    
+    > Medium control coupling is exactly what this example defines.
 
 10. Module A and B both rely on the same composite data structure. This is an example of what type of coupling?
 
     - [x] Medium data structure coupling
     - [ ] Medium control coupling
+    
+    > Medium data structure coupling is exactly what this example defines.
 
 11. The three types of loose coupling are:
 
@@ -176,15 +196,21 @@
     - [ ] Data; Message; Data Structure
     - [x] Data; Message; None
     - [ ] Content; Common; External
+    
+    > Loose coupling can be data coupling, message coupling, or no coupling.
 
 12. Modules only share parameters. This is an example of what type of coupling?
 
     - [ ] Loose no coupling
     - [x] Loose data coupling
     - [ ] Loose message coupling
+    
+    > Loose data coupling is exactly what this example defines.
 
 13. The loosest type of coupling; components only communicate through parameters or message passing. This is an example of what type of coupling?
 
     - [ ] Loose data coupling
     - [x] Loose message coupling
     - [ ] Loose no coupling
+    
+    > Loose message coupling is exactly what this example defines.
