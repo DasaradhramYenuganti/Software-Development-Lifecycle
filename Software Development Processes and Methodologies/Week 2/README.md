@@ -218,3 +218,52 @@
     
 ## 4. Software Design: Cohesion
 
+1. Choose the most accurate answer: Cohesion describes...
+
+    - [x] how well everything within a module fits together.
+    - [ ] loose coupling.
+    - [ ] decomposability.
+    - [ ] how changes do not cross boundaries of modules.
+
+2. Which of the following statements about cohesion is true?
+
+     - [ ] Cohesion measures how well everything within a module fits together.
+     - [ ] Describes the implementation of a single logical entity or function.
+     - [ ] Represents a desirable design attitude.
+     - [ ] High cohesion is the aim in software development.
+     - [x] All of the above
+
+3. The goal in real-life software development is to aim for object and functional cohesion and anything less than this should be justified.
+
+    - [x] True
+    - [ ] False
+
+4. The four types of weak cohesion are:
+
+    - [ ] Coincidental, temporal, sequential, logical association
+    - [ ] Communicational, sequential, object, functional
+    - [ ] There is no such thing as loose cohesion
+    - [x] Coincidental, temporal, procedural, logical association
+
+5. Parts of modules are together in the same file. This is an example of what type of cohesion?
+
+    - [ ] Temporal cohesion
+    - [ ] Procedural cohesion
+    - [x] Coincidental cohesion
+    - [ ] Logical association cohesion
+
+6. Different pieces of code are activated at the same time. This is an example of what type of cohesion?
+
+    - [ ] Coincidental cohesion
+    - [ ] Procedural cohesion
+    - [ ] Logical association cohesion
+    - [x] Temporal cohesion
+
+7. One piece of code runs after the other. This is an example of what type of cohesion?
+
+    - [ ] Logical association cohesion
+    - [x] Procedural cohesion
+    - [ ] Temporal cohesion
+    - [ ] Coincidental cohesion
+
+8. 
