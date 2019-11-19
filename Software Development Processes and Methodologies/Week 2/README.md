@@ -543,3 +543,97 @@
     >It is impossible to show the absense of faults/error/failures using software testing! The best we can do is to show that such issues exist under certain circumstances.
     - [x] False
     
+ # 🔴 Quiz: Design, Implementation, and Testing 🔴
+ 
+ 1. Where does software design fit in the traditional waterfall software development lifecycle?
+
+    - [ ] Between specification and architecture
+    - [x] Between architecture and implementation
+    - [ ] Between implementation and deployment
+    - [ ] Before requirements
+
+2. Which of the following is NOT an aspect of software design
+
+    - [x] Polymorphism
+    - [ ] Coupling
+    - [ ] Modularity
+    - [ ] Cohesion
+
+3. The ability to use a built-in function of a programming language to generate a random number is an example of which of the following?
+
+    - [ ] Modularity
+    - [ ] Cohesion
+    - [ ] Coupling
+    - [x] Information hiding
+
+4. Analyzing the extent to which other modules must change when a module is modified is an example of which of the following?
+
+    - [ ] Information hiding
+    - [x] Coupling
+    - [ ] Modularity
+    - [ ] Cohesion
+
+5. When all of the responsibilities of a module are easily classified as being strongly related, this is an example of high what?
+
+    - [ ] Information hiding
+    - [ ] Modularity
+    - [x] Cohesion
+    - [ ] Coupling
+
+6. **Which of the following is most preferred?** "Software Design - Coupling"
+
+    - [ ] Having two modules rely on the same global information structure (common coupling)
+    - [ ] Allowing one module to affect the program flow of another via the use of a state message (message coupling)
+    - [ ] **Having more than one module rely on the same version of the RSS standard (external coupling)**
+    - [ ] Allowing one module to affect the program flow of another via the use of a flag (control coupling)
+
+7. **Which of the following is LEAST desirable?** "Software Design - Cohesion"
+
+    - [ ] including functionality which entirely encapsulates all the necessary function for a specific task
+    - [ ] including functionality which occurs around the same time
+    - [ ] including functionality which relys on the same input
+    - [ ] **including functionality which modifies an object's own attributes**
+
+8. **Which of the following are necessary before proper testing?**
+
+    - [ ] inputs, expected output, and an oracle
+    - [ ] inputs which cause issues
+    - [ ] **inputs, expected output, an oracle, and the actual output**
+    > You can't have actual output BEFORE proper testing
+    - [ ] inputs and expected output
+
+9. **Which of the following is an mistake in code which has not yet been activated?** "Software Testing - Introduction"
+
+    - [ ] Fault
+    - [ ] Effective error
+    - [ ] Failure
+    - [ ] **Latent error** 
+
+10. Which of the following is an example of validation?
+
+    - [ ] software recognizes incorrect inputs
+    - [ ] use of the software provides the correct results as documented
+    - [x] software is well-received by the user
+    - [ ] ensuring the system locks out an account after three failed log-in attempts
+
+11. **In your current project, you have access to some intern development resources, which are not currently operating at full capacity. You also know that the testing timeline will be truncated, due to delays in critical-path module development. Which strategy should you employ?** "Software Testing - Strategies"
+
+    - [ ] Utilize the intern resources to design and develop drivers and stubs, while work continues on critical-path module development
+    - [ ] Make no changes to the current project testing or development allocations, utilizing intern resources to create documentation.
+    - [ ] Allow the testing team to work without (or with quick-to-develop) drivers and stubs, while using intern resources to aid critical-path development
+    - [ ] **Allow the testing team to work without (or with quick-to-develop) drivers and stubs, and utilize the intern resources to aid testing once all critical-path development is complete**
+
+12. When is testing complete?
+
+    - [ ] When you have completed all the tests in the test plan
+    - [ ] When you have tested every input
+    - [ ] When you find the last bug
+    - [x] When you run out of time
+
+13. Which of the following is an example of black-box testing?
+
+    - [ ] Developing test cases to exercise error-prone constructs
+    - [ ] Developing additional test cases to force a division by zero
+    - [x] Developing test cases based on typical user behavior
+    - [ ] Developing additional tests when every if statement does not evaluate both true and false once given the current test suite
+
