@@ -1,11 +1,24 @@
 - **TMTOWTDI** — there's more than one way to do it
     - There may be many different solutions that can be applied to your specific problem. The most popular solution is always good to consider, but it should not limit the designer's view
 
-**Cutover Strategies**:
+**Cutover Strategies:**
 
    - Hot failover
    - Warm standby
    - Cold back-up (storage)
+   
+**Software Testing: Strategies**
+
+   - Regression Testing (big part of Incremental Testing)
+   - Top-down Testing
+   - Bottom-up Testing
+   - Back to Back Testing
+   
+**Software Testing: Perspectives**
+
+   - Black-box Testing
+   - White-box Testing
+
 
 # 🔹 Design
 ## 🔺 1. Software Design: Introduction
