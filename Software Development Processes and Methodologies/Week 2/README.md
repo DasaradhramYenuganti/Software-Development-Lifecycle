@@ -650,3 +650,12 @@
     - [ ] Effective error
     - [ ] Failure
     - [ ] Latent error
+
+9. Which of the following is an mistake in code which is found in code review?
+
+    - [ ] Failure
+    - [x] Latent error
+    - [ ] Fault
+    - [ ] Effective error
+
+
