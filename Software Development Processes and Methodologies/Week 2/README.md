@@ -582,23 +582,23 @@
 
 6. **Which of the following is most preferred?** "Software Design - Coupling"
 
-    - [ ] Having two modules rely on the same global information structure (common coupling)
+    - [ ] **Having two modules rely on the same global information structure (common coupling)**
     - [ ] Allowing one module to affect the program flow of another via the use of a state message (message coupling)
     - [ ] **Having more than one module rely on the same version of the RSS standard (external coupling)**
     - [ ] Allowing one module to affect the program flow of another via the use of a flag (control coupling)
 
-7. **Which of the following is LEAST desirable?** "Software Design - Cohesion"
+7. Which of the following is LEAST desirable?
 
     - [ ] including functionality which entirely encapsulates all the necessary function for a specific task
-    - [ ] including functionality which occurs around the same time
+    - [x] including functionality which occurs around the same time
     - [ ] including functionality which relys on the same input
-    - [ ] **including functionality which modifies an object's own attributes**
+    - [ ] including functionality which modifies an object's own attributes
 
-8. **Which of the following are necessary before proper testing?**
+8. Which of the following are necessary before proper testing?
 
-    - [ ] inputs, expected output, and an oracle
+    - [x] inputs, expected output, and an oracle
     - [ ] inputs which cause issues
-    - [ ] **inputs, expected output, an oracle, and the actual output**
+    - [ ] inputs, expected output, an oracle, and the actual output
     > You can't have actual output BEFORE proper testing
     - [ ] inputs and expected output
 
@@ -608,6 +608,13 @@
     - [ ] Effective error
     - [ ] Failure
     - [ ] **Latent error** 
+    
+ 9. Which of the following is when the operation of a system differs from what the user expects?
+
+    - [x] Failure
+    - [ ] Fault
+    - [ ] Effective error
+    - [ ] Latent error
 
 10. Which of the following is an example of validation?
 
@@ -616,12 +623,12 @@
     - [x] software is well-received by the user
     - [ ] ensuring the system locks out an account after three failed log-in attempts
 
-11. **In your current project, you have access to some intern development resources, which are not currently operating at full capacity. You also know that the testing timeline will be truncated, due to delays in critical-path module development. Which strategy should you employ?** "Software Testing - Strategies"
+11. In your current project, you have access to some intern development resources, which are not currently operating at full capacity. You also know that the testing timeline will be truncated, due to delays in critical-path module development. Which strategy should you employ?** "Software Testing - Strategies"
 
-    - [ ] Utilize the intern resources to design and develop drivers and stubs, while work continues on critical-path module development
+    - [x] Utilize the intern resources to design and develop drivers and stubs, while work continues on critical-path module development
     - [ ] Make no changes to the current project testing or development allocations, utilizing intern resources to create documentation.
     - [ ] Allow the testing team to work without (or with quick-to-develop) drivers and stubs, while using intern resources to aid critical-path development
-    - [ ] **Allow the testing team to work without (or with quick-to-develop) drivers and stubs, and utilize the intern resources to aid testing once all critical-path development is complete**
+    - [ ] Allow the testing team to work without (or with quick-to-develop) drivers and stubs, and utilize the intern resources to aid testing once all critical-path development is complete
 
 12. When is testing complete?
 
