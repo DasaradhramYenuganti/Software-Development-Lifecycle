@@ -585,7 +585,7 @@
     - [ ] **Having two modules rely on the same global information structure (common coupling)**
     - [ ] Allowing one module to affect the program flow of another via the use of a state message (message coupling)
     - [ ] **Having more than one module rely on the same version of the RSS standard (external coupling)**
-    - [ ] Allowing one module to affect the program flow of another via the use of a flag (control coupling)
+    - [ ] **Allowing one module to affect the program flow of another via the use of a flag (control coupling)**
 
 7. Which of the following is LEAST desirable?
 
@@ -605,16 +605,9 @@
 9. **Which of the following is an mistake in code which has not yet been activated?** "Software Testing - Introduction"
 
     - [ ] Fault
-    - [ ] Effective error
+    - [x] Effective error
     - [ ] Failure
     - [ ] **Latent error** 
-    
- 9. Which of the following is when the operation of a system differs from what the user expects?
-
-    - [x] Failure
-    - [ ] Fault
-    - [ ] Effective error
-    - [ ] Latent error
 
 10. Which of the following is an example of validation?
 
@@ -644,3 +637,16 @@
     - [x] Developing test cases based on typical user behavior
     - [ ] Developing additional tests when every if statement does not evaluate both true and false once given the current test suite
 
+9. Which of the following is when the operation of a system differs from what the user expects?
+
+    - [x] Failure
+    - [ ] Fault
+    - [ ] Effective error
+    - [ ] Latent error
+
+9. Which of the following is a mistake made by the developer?
+
+    - [x] Fault
+    - [ ] Effective error
+    - [ ] Failure
+    - [ ] Latent error
