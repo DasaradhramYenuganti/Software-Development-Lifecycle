@@ -2,7 +2,7 @@
 
 ## 🔹 Waterfall Models
 
-  - Predictive
+  - Predictive (Waterfall model, V-Model)
   - Adaptive
 ___________
 
