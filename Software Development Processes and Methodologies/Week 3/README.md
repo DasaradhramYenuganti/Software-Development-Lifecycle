@@ -221,3 +221,87 @@ ____________________________
 ### Phase Gates / Stage Gates
 
 ![Phase Gates ](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Phase%20Gates.png)
+
+______________________________
+
+### 🔺 Traditional Software Development Models
+
+1. Which of the following is true for adaptive models? (Select any two)
+
+  - [x] You may end-up building something different that what you originally though
+  > Since adaptive models request user/client feedback after each release, it allows / welcomes changes during the process. What will this result in? 
+  - [ ] You discourage change during the development process
+  - [x] You are not sure about what exactly you want to build
+  > If it is adaptive model, you adapt based on feedback you get. 
+  - [ ] Adaptive model is the best model in all situations
+
+2. A team divided the application they were building into 4 parts and planning to build one part at a time. To build each part, they are planning to go through the steps of requirements, design, implementation, test, and deployment. Also, they are planning to complete each part fully with high fidelity. By fidelity we mean the completeness of the features implemented in each part. Based on this information, what type of model do you suggest they use for their software development process?
+
+  - [x] Incremental
+  - [ ] Iterative and Incremental
+  > Is there a plan to increase fidelity of components over time? Or do they want to finish one component fully, release it and move to next component? 
+  - [ ] Iterative
+
+3. A team is working on a problem where the requirements are well known but they are short on time. They prefer to start the design phase when some of the requirements have been defined. Similarly, they want to start coding when the design for part of the system is ready. What model will best fit their needs?
+
+  - [x] Sashimi
+  - [ ] V-model
+  - [ ] Waterfall
+  - [ ] Spiral
+
+4. In the incremental model variation where you do requirements and design for all of the application once and then just increment on implementation, testing, and deployment, are you making the process more suitable for a predictive or adaptive situation?
+
+  - [x] Predictive
+  > If situation is adaptive and user needs may change later, it can potentially result in change in requirements and design for which we invested heavily in the beginning. This in turn may result in extra work and could be very costly.
+  - [ ] Adaptive
+
+5. **Which of following is NOT true about incremental and iterative models?**
+
+  - [x] **Iterative approaches release every feature with low fidelity and then improve fidelity over time. By fidelity we mean the completeness of the feature.**
+  > In an iterative model, you release all of the features of the product, but features are not complete. For example, in the case of the search feature on a job portal website, it may allow a basic search by keyword but not a search by city, type of job, etc. Another example of low fidelity might be the algorithm used. Low Fidelity = Basic algorithm. High Fidelity = Advanced and very intuitive algorithm.
+  - [ ] Incremental approaches release features as they are finished with high fidelity.
+  - [ ] An incremental model is one where you can build each part of the system individually but you release all at once.
+  - [ ] **In a model which is both iterative and incremental, we release features when they are usable. Over time the development team improves existing features and adds new ones**
+
+6. Which of the following is NOT true for the Waterfall model, V-model and Sashimi model?
+
+  - [ ] In these models, the team is expected know the solution really well.
+  - [ ] In these models, we assume that we know requirements really well
+  - [x] These models will be a good model to be used by a startup implement a new idea that is new to market
+  - [ ] In these models, the cost of change depends on how late we find out about the change. If problem requiring a change is found during the implementation phase, it will be more expensive to fix than one found during the design phase.
+
+7. In the Unified Process, what does the milestone of "Lifecycle Architecture" mean?
+
+  - [ ] Agreement among stakeholders about the objectives of the project and to proceed with the project.
+  - [x] Agreement among the stakeholders about the technical approach.
+  - [ ] Agreement among the stakeholders about the deployment of the system to actual users.
+
+8. Which of the following is true for the Unified Process? (select any 3)
+
+  - [x] It is a framework and not a specific model.
+  - [ ] It is a predictive framework.
+  - [ ] It is a very simple framework to follow.
+  - [x] It is an architecture-centric framework.
+  - [x] The construction phase supports both iterative and incremental approaches.
+
+9. Select situations listed below where you would NOT use the unified process framework
+
+- [ ] Medium-sized project with some risks involved.
+- [x] Very small, simple project where the problem and solution are well known.
+- [ ] Situation where the organization wants to deliver part of the application early to capture the market ahead of competition.
+- [ ] All requirements are not known early in the project.
+
+10. Which of the following is NOT true for Spiral model?
+
+  - [ ] Spiral model is not a model but a process model generator
+  - [ ] It is suitable for very large high risk projects
+  - [x] You always have to perform all the steps mentioned in the spiral model diagram
+  - [ ] It minimizes waste by allowing teams to tailor the effort put into different processes based on the risk involved in each cycle.
+
+11. Which of the following is NOT the benefits of the Unified Process?
+
+  - [x] Easy to understand and implement
+  - [ ] Flexible for handling change.
+  - [ ] Supports / encourages risk identification and mitigation
+  - [ ] Supports to incorporate other models in the process for e.g you can use Agile in construction phase.
+  - [ ] Supports quality and reuse by emphasizing on architecture
