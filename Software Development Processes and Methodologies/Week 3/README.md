@@ -114,10 +114,23 @@ ________________________________
 
 ### Unified Process and its Variants
 
-- **Adaptive model**
-
 ![1.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/1.png)
 
+**✅ Pros:**
+- **Adaptive model**
+- Quality and Reuse
+- Focus on risk mitigation increases chances of success
+- Flexible to incorporate other software dev models
+
+**❌ Cons:**
+- Complicated model
+- Need more resources
+- Too much overhead for smaller project
+
+**So where do you use this model?** 
+- Bigger and riskier projects
+- All requirments not known early in the project
+- Desire to deliver value earlier
 ____________________________
 
 ### Spiral Model
@@ -139,10 +152,52 @@ ____________________________
 - Minimizes waste because it talks about how you don't need to go through all this every single step in the same rigor but, based on the risk, you define how much effort you want to put. 
 -  Option of go, no-go in every cycle and move forward.
 
-** ❌ Cons:**
+**❌ Cons:**
 - Complicated model
 - Cost more to manage
 - Needs the stakeholder engagement because after every cycle or during every cycle, you need a lot of or bit of engagement from your key stakeholders.
 
 **So where do you use this model?** 
 - If it is a very large high risk project, I think, a spiral model would be a good fit for those kind of projects.
+
+### 🔺 Unified and Spiral Processes
+
+1. In the Unified process, all requirements work is done upfront and no requirements work is done in the construction phase.
+
+  - [x] False
+  - [ ] True
+  > In the unified process, although the majority of requirements work is performed in first two stages, there is still some requirements work needed in the construction and transition phases.
+
+2. What are some of the activities that happen in the elaboration phase of the Unified process? Select two.
+
+  - [ ] Deploy an increment of the software
+  - [x] Address known risks
+  - [ ] Decide if you are going to build the system or buy off the shelf product
+  - [x] Validate system architecture by building executable architecture baseline
+  > Two key things that happen in elaboration phase is addressing known risks and creating an executable architecture. See the unified process video
+
+3. Which of the following activities happen in Step 2 of the Spiral model? Select two.
+
+  - [x] Identify risks
+  - [ ] Make a decision whether to continue with next cycle
+  - [x] Resolve risks
+  - [ ] Decide objectives and constraints
+
+4. Select the four basic steps followed in each cycle of Spiral model.
+
+  - [ ] Design
+  - [x] Identify and Resolve Risks
+  - [ ] Deployment
+  - [x] Define Objective
+  - [x] Development and Tests
+  - [ ] Requirements
+  - [x] Plan the Next Iteration
+
+5. Which of the following are true for the Unified Processes and its variants? Select two.
+
+  - [x] Agile Unified Process and Open Unified Process are lighter versions of the "Unified Process".
+  - [ ] UML Unified Process is the Ultimate Unified Process with a superset of all practices and processes.
+  - [x] Enterprise Unified Process adds additional practices on top of the Unified Process and Rational Unified Process.
+  - [ ] Rational Unified Process is a lighter version on Unified Process.
+  
+## 🔹 Applying traditional software development models
