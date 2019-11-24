@@ -217,3 +217,7 @@ ____________________________
   - [ ] Rational Unified Process is a lighter version on Unified Process.
   
 ## 🔹 Applying traditional software development models
+
+### Phase Gates / Stage Gates
+
+![Phase Gates ](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Phase%20Gates.png)
