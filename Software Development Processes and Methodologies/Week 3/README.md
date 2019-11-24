@@ -15,12 +15,20 @@ _________________
 ### 🟧 Waterfall Model
 
 ![Waterfall_model.svg](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Waterfall_model.svg)
+
+![Waterfall 1.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Waterfall%201.png)
 _______________________
 
 ### 🟧 V-Model 
 
 ![V-Model](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/V-Model.png)
+
+![V-Model 1.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/V-Model%201.png)
 ________________________________
+
+### 🟧 Sashimi Model
+
+![Sashimi model.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Sashimi%20model.png)
 
 ### 🔺 Waterfall methods
 
@@ -47,6 +55,12 @@ ________________________________
   - [ ] Requirement changes are welcomed in all phases of this project.
   
 ## 🔹 Incremental Models
+
+### 🟧 Incremental Model
+
+![Incremental model.png
+Find file Copy path
+](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Incremental%20model.png)
 
 ### 🔺 Waterfall and Incremental Software Development Models
 
@@ -112,7 +126,7 @@ ________________________________
 
 ## 🔹 Iterative Models
 
-### Unified Process and its Variants
+### 🟧 Unified Process and its Variants
 
 ![1.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/1.png)
 
@@ -133,7 +147,7 @@ ________________________________
 - Desire to deliver value earlier
 ____________________________
 
-### Spiral Model
+### 🟧 Spiral Model
 
 - Risk-driven approach
   - Effort and detail driven by risk
