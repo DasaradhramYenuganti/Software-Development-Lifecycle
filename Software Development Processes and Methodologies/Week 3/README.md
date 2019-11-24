@@ -100,4 +100,4 @@ _________________
   - [ ] Adaptive since it has most advantages
   - [ ] Waterfall
 
-## 
+## 🔹 Iterative Models
