@@ -255,13 +255,13 @@ ______________________________
   > If situation is adaptive and user needs may change later, it can potentially result in change in requirements and design for which we invested heavily in the beginning. This in turn may result in extra work and could be very costly.
   - [ ] Adaptive
 
-5. **Which of following is NOT true about incremental and iterative models?**
+5. Which of following is NOT true about incremental and iterative models?
 
-  - [x] **Iterative approaches release every feature with low fidelity and then improve fidelity over time. By fidelity we mean the completeness of the feature.**
+  - [ ] Iterative approaches release every feature with low fidelity and then improve fidelity over time. By fidelity we mean the completeness of the feature.
   > In an iterative model, you release all of the features of the product, but features are not complete. For example, in the case of the search feature on a job portal website, it may allow a basic search by keyword but not a search by city, type of job, etc. Another example of low fidelity might be the algorithm used. Low Fidelity = Basic algorithm. High Fidelity = Advanced and very intuitive algorithm.
   - [ ] Incremental approaches release features as they are finished with high fidelity.
-  - [ ] An incremental model is one where you can build each part of the system individually but you release all at once.
-  - [ ] **In a model which is both iterative and incremental, we release features when they are usable. Over time the development team improves existing features and adds new ones**
+  - [x] An incremental model is one where you can build each part of the system individually but you release all at once.
+  - [ ] In a model which is both iterative and incremental, we release features when they are usable. Over time the development team improves existing features and adds new ones
 
 6. Which of the following is NOT true for the Waterfall model, V-model and Sashimi model?
 
