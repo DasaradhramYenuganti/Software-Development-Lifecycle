@@ -15,10 +15,12 @@ _________________
 ### 🟧 Waterfall Model
 
 ![Waterfall_model.svg](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Waterfall_model.svg)
+_______________________
 
 ### 🟧 V-Model 
 
 ![V-Model](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/V-Model.png)
+________________________________
 
 ### 🔺 Waterfall methods
 
