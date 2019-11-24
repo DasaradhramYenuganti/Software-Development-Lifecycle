@@ -30,6 +30,8 @@ ________________________________
 
 ![Sashimi model.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Sashimi%20model.png)
 
+_________________________
+
 ### 🔺 Waterfall methods
 
 1. In waterfall method, you get your product in one big bang deployment
@@ -58,9 +60,9 @@ ________________________________
 
 ### 🟧 Incremental Model
 
-![Incremental model.png
-Find file Copy path
-](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Incremental%20model.png)
+![Incremental model.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Incremental%20model.png)
+
+____________________________________
 
 ### 🔺 Waterfall and Incremental Software Development Models
 
