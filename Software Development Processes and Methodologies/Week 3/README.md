@@ -12,6 +12,14 @@ ___________
   - None
 _________________
 
+### 🟧 Waterfall Model
+
+![Waterfall_model.svg](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Waterfall_model.svg)
+
+### 🟧 V-Model 
+
+![V-Model](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/V-Model.png)
+
 ### 🔺 Waterfall methods
 
 1. In waterfall method, you get your product in one big bang deployment
