@@ -2,8 +2,8 @@
 
 ## 🔹 Waterfall Models
 
-  - Predictive (Waterfall model, V-Model, Sashimi Model)
-  - Adaptive
+  - **Predictive** (Waterfall model, V-Model, Sashimi Model)
+  - **Adaptive** (Unified Process, Spiral Model)
 ___________
 
   - Incremental
@@ -114,6 +114,8 @@ ________________________________
 
 ### Unified Process and its Variants
 
+- **Adaptive model**
+
 ![1.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/1.png)
 
 ____________________________
@@ -121,5 +123,26 @@ ____________________________
 ### Spiral Model
 
 - Risk-driven approach
+  - Effort and detail driven by risk
+- Four basic activities in every cycle 
+- Process model generator. Incorporates other models
+- The risk determines the level of effort and the degree of details. 
+- And then not every activity in the diagram needs to be performed
+- **Adaptive model**
 
 ![Spiral Model](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Spiral_model.png)
+
+**✅ Pros:**
+- You can change in every cycle the direction where you're going. 
+- The focus on the risk increases the chance of success of your product. 
+- Flexibility of using any software development model.
+- Minimizes waste because it talks about how you don't need to go through all this every single step in the same rigor but, based on the risk, you define how much effort you want to put. 
+-  Option of go, no-go in every cycle and move forward.
+
+** ❌ Cons:**
+- Complicated model
+- Cost more to manage
+- Needs the stakeholder engagement because after every cycle or during every cycle, you need a lot of or bit of engagement from your key stakeholders.
+
+**So where do you use this model?** 
+- If it is a very large high risk project, I think, a spiral model would be a good fit for those kind of projects.
