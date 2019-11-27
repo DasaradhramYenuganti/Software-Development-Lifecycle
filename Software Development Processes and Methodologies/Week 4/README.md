@@ -72,4 +72,67 @@
 
 ![Agile and Lean](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Agile%20and%20Lean.png)
 
+# 🟧 Lean Startup
 
+![Lean Starup](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Lean%20Startup.png)
+
+__________________________________
+
+### 🔺 1. Agile Frameworks and models
+
+1. Which of the following are official rituals/meetings/practices in scrum?
+
+  - [x] Sprint Planning Meeting
+  > In scrum, there are four rituals - Sprint planning, Sprint Retrospectives, Sprint Review and Daily Standup.
+  - [x] Sprint Retrospective Meeting
+  - [ ] Mid-Sprint Status Review Meeting
+  - [x] Sprint Review Meeting
+  - [x] Daily Scrum Meeting
+
+2. Which of these are core properties of Kanban?
+
+  - [x] Manage Flow
+  - [ ] Daily stand-up
+  - [x] Visualize the Work
+  - [ ] Retrospectives
+  - [x] Limit work in progress
+
+Kanban has 5 core properties:
+1. Visualize Workflow
+2. Limit work-in-progress
+3. Measure & Manage Flow
+4. Make Process Policies Explicit
+5. Use Models to Recognize Improvement Opportunities
+
+[What Is Kanban?](http://www.everydaykanban.com/what-is-kanban/)
+
+3. Which of the following are TRUE about lean startup? Select two.
+
+  - [x] In Lean Startup, you try to validate/invalidate your assumptions (crucial for the success of your product) as fast as you can.
+  > True. One way to approach Lean Startup is to list the assumptions that must be true for your product to be successful, then identify how you can measure it and finally conduct an experiment to collect that data so you can validate if your assumption is going to hold true.
+  - [ ] The concept of "Validated Learning" in Lean Startup means validating your learning and new ideas with your manager before you implement
+  - [ ] Lean Startup concept is primarily applicable to startup companies. It is not applicable for bigger organizations.
+  - [x] Lean Startup concepts recommends to go through Build-Measure-Learn cycles as fast as you can.
+  > True. The faster you learn, the faster you eliminate waste and pivot your product towards user needs.
+
+4. Which of the following is true about Scrum? Select two.
+
+  - [ ] **In Sprint Retrospective, we talk about what we build, give demo and get customer/client feedback
+  > False. In retrospective, we talk about the process and not the product.
+  - [x] Burndown and Burnup chart help team track progress of current sprint.
+  > True. By graphing the work remaining each day, team can get an idea if they are on track to finish planned work for the sprint.
+  - [ ] **In Sprint Review, we talk about process and talk about what was working, what didn't work and how we can improve.
+  > False. It is Sprint Retrospective where we talk about process. In Sprint Review we talk about what we built, give demo and get feedback.
+  - [ ] In daily stand-up, everybody talks about what they worked, what they are planning to work on and share any impediments they have.
+  - [ ] It is encouraged to make iteration scope changes during the sprint
+
+5. Which of the following is true about product and sprint backlogs? Select two.
+
+  - [x] A sprint backlog is created during the sprint planning meeting.
+  > Sprint backlog is stories that team decides to work on during the sprint so it is created as a result of sprint planning meeting
+  - [x] The product backlog is a prioritized backlog with highest priority items on the top.
+  > A good product backlog is kept up to date with highest priority items on the top so team can pick top items from the backlog when they need next thing to work on
+  - [ ] Sprint and product backlogs are same thing.
+  - [ ] A sprint backlog has all of the items contained in the product backlog.
+  
+  ## 
