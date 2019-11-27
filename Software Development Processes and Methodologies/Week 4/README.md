@@ -9,20 +9,6 @@
 - **Hybrid of a Scrum and XP**
 - **Lean Startup**: which helps you if you have lot of unpredictable market or industry and you want to really prove your solution before you implement it. So Lean Startup helps you in that area and there are many more.
 
-# 🟧 Scrum
-
-![Scrum](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Scrum%20Framework.png)
-
-# 🟧 Kanban
-
-![Kanban 1](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Kanban%201.png)
-
-![Kanban 2](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Kanban%202.png)
-
-# 🟧 Agile and Lean
-
-![Agile and Lean](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Agile%20and%20Lean.png)
-
 ## 🔹 Agile Fundamentals
 
 ### 🔺 1. Agile Mindset
@@ -71,3 +57,19 @@
   - [ ] Not enough time is spent on requirements. If we spend more time early, we can define requirements very accurately.
 
 ## 🔹 Agile Frameworks
+
+# 🟧 Scrum
+
+![Scrum](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Scrum%20Framework.png)
+
+# 🟧 Kanban
+
+![Kanban 1](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Kanban%201.png)
+
+![Kanban 2](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Kanban%202.png)
+
+# 🟧 Agile and Lean
+
+![Agile and Lean](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Agile%20and%20Lean.png)
+
+
