@@ -1,4 +1,6 @@
-# 🔴 Software Architecture: Models
+# Software development processes : Part 1
+
+## 🔴 Software Architecture: Models
 
 - Pipe and Filter
 - Blackboard
@@ -6,8 +8,8 @@
 - Client-Server
 - Event-based
 
-# 🔹 Introduction to the course
-# 1. What software development Looks Like?
+## 🔹 Introduction to the course
+### 1. What software development Looks Like?
 
 1. Which of the two is the software development model that can better respond to changes in the requirements?
 
@@ -26,8 +28,8 @@
     - [x] Misinterpretations of requirement or design can remain undetected until the later phases
     - [ ] It is not suitable for big projects
 
-# 🔹 Requirements
-# 2. Why do we need requirements?
+## 🔹 Requirements
+### 2. Why do we need requirements?
 
 1. Which is the right description about the requirement specification process?
     - [ ] Requirement specification is a process that identifies and specifies the problem and possible solutions to the problem.
@@ -49,7 +51,7 @@
     - [ ] Changing the requirement is not possible once the system is fully developed.
     - [x] Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle.
 
-# 3. Requirements vs Specification
+### 3. Requirements vs Specification
 
 1. Which of the followings are true about requirements and specifications?
 
@@ -80,7 +82,7 @@
     - [x] Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
     - [ ] A user shall be able to use the online banking system securely.
 
-# 4. Non-functional Requirements
+### 4. Non-functional Requirements
 
 1. A constraint to only use Microsoft Project during the system development is a non-functional requirement.
 
@@ -99,7 +101,7 @@
     
     > Non-functional requirements can come in many flavors. They can be imposed by external factors or organizational factors and they can also refer to some feature of the system. But the key point to note here is that non-functional requirements are not intended to describe the computation or function of the system.
 
-# 5. WRSPM Quiz
+### 5. WRSPM Quiz
 
 1. WRSPM stands for:
 
@@ -120,8 +122,8 @@
     > False! It is always important to map our specifications to the requirements so we know that we are implementing the right product.
     - [ ] None of the above.
 
-# 🔹 Architecture
-# 6. Software Architecture: Definition
+## 🔹 Architecture
+### 6. Software Architecture: Definition
 
 1. A subsystem in an architecture must:
 
@@ -158,7 +160,7 @@
     
     > Correct! Indeed funding decisions are easier now that one can look into individual subsystems.
     
-# 7. Software Architecture: Models
+### 7. Software Architecture: Models
 
 1. A UNIX program where the output of one program is the input of another, is an example of which of the software architecture models below:
 
@@ -194,7 +196,7 @@
     
     > False! This model is usually used when there are a number of different events that could happen in the system which needs to be propagated to a specific component to handle it.
 
-# 8. Software Architecture: Process
+### 8. Software Architecture: Process
 
 1. The difference between subsystems and modules are:
 
