@@ -1,5 +1,14 @@
 # Software Development Models: Agile and Lean
 
+![Agile Frameworks](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Agile%20Frameworks.png)
+
+- **Scrum**: Scrum is based on this one to four-week cycle where you take part of your project and you do your define, your develop, your design, and you test your software, and so your product is developed incrementally.
+- **Kanban**: which is based on a continuous flow model where you basically try to optimize your existing software development process.
+- **Scrumban**: where you use _Scrum_ as your primary framework and then you use _Kanban_ to optimize your flow within your sprint.
+- **XP**: has most of the practices of Scrum but it also defines some engineering practices which are very crucial for an Agile team. 
+- **Hybrid of a Scrum and XP**
+- **Lean Startup**: which helps you if you have lot of unpredictable market or industry and you want to really prove your solution before you implement it. So Lean Startup helps you in that area and there are many more.
+
 ## 🔹 Agile Fundamentals
 
 ### 🔺 1. Agile Mindset
