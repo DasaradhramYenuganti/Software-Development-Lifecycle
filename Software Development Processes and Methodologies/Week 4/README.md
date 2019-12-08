@@ -1,6 +1,6 @@
 # Software Development Models: Agile and Lean
 
-![Agile Frameworks](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Agile%20Frameworks.png)
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%204/Agile%20Frameworks.png" width="560" height="381">
 
 - **Scrum**: Scrum is based on this one to four-week cycle where you take part of your project and you do your define, your develop, your design, and you test your software, and so your product is developed incrementally.
 - **Kanban**: which is based on a continuous flow model where you basically try to optimize your existing software development process.
@@ -135,4 +135,109 @@ Kanban has 5 core properties:
   - [ ] Sprint and product backlogs are same thing.
   - [ ] A sprint backlog has all of the items contained in the product backlog.
   
-  ## 
+  ### 🔺 Agile & Lean Software Development
+  
+1. What are some of the challenges with waterfall methods that prompted the software industry to come up with alternatives like agile? (select 2)
+
+  - [x] It is difficult to predict user/customer needs
+  > One of the issues the software industry saw was that once a product was given to users after several years of development, users responded saying "This is not what i want". Watch the video "Why Agile?"
+  - [x] Incorrect interpretations of requirements by developers go undetected for a long time. During user acceptance tests, these issues are discovered but it is very late.
+  > In waterfall methods, is there a way to get early feedback from users? If not, what will happen? Watch the video "Why Agile?"
+  - [ ] Projects were very complex and big
+  - [ ] Projects cost too much
+
+2. Which of the following statements align with the value "Working software over comprehensive documentation” of Agile manifesto? (select any 2)
+
+  - [x] If documentation is absolutely essential then create it.
+  - [ ] An agile coach says to the team “Documentation is of no use.”
+  - [ ] A manager tells the team: “Writing certain documentation is company policy so we must create them irrespective of its use.
+  - [x] Value delivering software over writing documentation.
+  > Read the agile manifesto again especially the line that says "... we value the items on the left more" Also watch the agile manifesto video.
+
+3. Which one of the following statements/situations/conversations align with an agile mindset?
+
+  - [ ] A manager e-mails her team: “Meeting face to face just for a 15 minute discussion is inefficient, let us all just dial-in from our desk.”
+  - [ ] A manager providing a status update to a customer says: “We are done with requirements and design so we are 50% done.”
+  - [x] **Manager:** “The customer is suggesting another change in feature X which is complete as per specification. They agree that it was built as we agreed upon but it lacks some functionality and will result in user frustration. Should we implement the change or not?”
+  
+  **Developer:** “Yes, if it does not fulfill user needs, we should make the change."
+  - [ ] A software vendor says to a client: "We must define exactly what the user needs and put that in agreement."
+
+4. Which of the following is TRUE about lean startup? (select all that apply)
+
+  - [x] In Lean Startup, you try to validate/invalidate your assumptions (crucial for the success of your product) as fast as you can.
+  > One way to approach Lean Startup is to list the assumptions that must be true for your product to be successful, then identify how you can measure it and finally conduct an experiment to collect that data so you can validate if your assumption is going to hold true.
+  - [ ] The concept of "Validated Learning" in Lean Startup means validating your learning and new ideas with your manager before you implement
+  - [ ] Lean Startup concept is primarily applicable to startup companies. It is not applicable for bigger organizations.
+  - [x] Lean Startup concepts recommends to go through Build-Measure-Learn cycles as fast as you can.
+
+5. Which of following is valid on a Kanban Board? (select any 2)
+
+  - [x] WIP limit for Step X is 3. Step X is divided into "Doing" and "Done." Number of items in "Doing" column is 2, and number of items in "Done" column is 1
+  > Watch Kanban Video. Number of total items in any column cannot exceed its WIP limit. In this case, if you add doing and done, how much does it total.
+  - [ ] WIP limit for Step X is 3. Step X is divided into "Doing" and "Done." Number of items in "Doing" column is 2, and number of items in "Done" column is 1. One of the item in previous step is done and developer wants to move that item to Step X
+  - [ ] WIP limit for Step X is 3. Step X is divided into "Doing" and "Done." Number of items in "Doing" column is 4, and number of items in "Done" column is 0
+  - [ ] WIP limit for Step X is 3. Step X is divided into "Doing" and "Done." Number of items in "Doing" column is 3, and number of items in "Done" column is 2
+  - [x] WIP limit for Step X is 5. Step X is divided into "Doing" and "Done." Number of items in "Doing" column is 3, and number of items in "Done" column is 1. One of the item in previous step is done and developer wants to move that item to Step X
+  > Watch Kanban Video. Number of total items in any column cannot exceed its WIP limit. In this case, if you add doing and done, how much does it total. Now if you add one more item from previous column, will it still be under the WIP limit?
+
+6. Which of the following Framework/process model supports Agile Mindset? (select all that apply)
+
+  - [ ] Waterfall
+  - [x] Kanban
+  - [x] Crystal
+  - [ ] V-Model
+  - [x] XP
+  - [x] Scrum
+  - [ ] Sashimi
+  - [x] Lean Startup
+  - [x] DSDM
+
+7. A software development team just started using Kanban. They had following columns with WIP limit of 3 for each column on their kanban board from left to right: Backlog(3), Analysis(3), Development(3), Testing(3), Deployment
+
+There are currently 3 items in testing (2 items being tested, one item is done testing.)
+
+Similarly, there are 3 items in Development column (2 items that is in development and 1 item is done development)
+
+One of the developer do not have anything to work on so manager wants to add one more item to the development column so the developer looking for work can work on it.
+
+Which one of the following would be a valid action in this situation? (Select any 4)
+
+  - [ ] It does not make sense for developer to wait before one of the items moved to another column. Manager should add one more item to the development column and no other change needed.
+
+  - [x] Manager should ask the developer waiting for work to help the testers so that they can finish one of the item from their column and move it to deployment column
+  > This can be a good temporary solution if this bottleneck is a temporary issue and won't occur frequently.
+  
+  - [x] Manager should ask deployment team if one of the done item in testing column can be deployed so there is space move one item from development to testing column.
+  > This will allow developer to work on new item and still meet all the WIP limit requirements.
+  
+  - [x] Add another tester in the Testing team so this bottleneck can be resolved quickly.
+  > This sounds like valid action under the property of "Manage Flow" i.e. if it make sense to add people to create smoother flow of work, we should adjust that.
+  
+  - [ ] Manager should ask the testers to move one of the item of test column temporarily to deployment column so that we can move item from development column. Later, we can move item back from deployment column to testing column
+  
+  - [x] Team should get together and discuss if we should increase the WIP limit of development column as we have more developers and it will be smoother flow if WIP limit of development column is increased.
+  > This sounds like valid action under the property of "Manage Flow" i.e. if it make sense to have higher limit to create smoother flow of work, we should adjust the WIP limits.
+
+8. In Scrum, when is the sprint backlog created?
+
+  - [ ] At the beginning of the project
+  - [x] During the sprint planning meeting
+  - [ ] During the backlog refinement meeting
+  - [ ] Whenever needed
+
+9. In Scrum, how is Product Backlog Arranged?
+
+  - [ ] Into categories, P1, P2, P3 etc
+  - [x] Most important items at the top, least important items at the bottom
+  - [ ] Items are randomly arranged
+  - [ ] Large items at the top, small items at the bottom
+
+10. Which of the following is TRUE about SCRUM? (Select all that apply)
+
+  - [ ] Daily Standup in scrum is mainly for Scrum master to get status of the project.
+  - [x] Scrum is an adaptive model
+  > In scrum, requirements can change over the period of time and product may look different than what originally planned.
+  - [ ] Scrum is the best way to implement agile mindset. Other Agile methods are not as effective.
+  - [x] Scrum has fixed time-boxed development cycles called sprints.
+  > Scrum recommends 1-4 weeks time-boxed sprints
