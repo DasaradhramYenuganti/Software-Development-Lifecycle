@@ -14,7 +14,7 @@ _________________
 
 ### 🟧 Waterfall Model
 
-![Waterfall_model.svg](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Waterfall_model.svg)
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Waterfall_model.svg" width="700" height="500">
 
 ![Waterfall 1.png](https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Software%20Development%20Processes%20and%20Methodologies/Week%203/Waterfall%201.png)
 _______________________
