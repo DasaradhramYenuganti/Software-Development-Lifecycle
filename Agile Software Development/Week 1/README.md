@@ -1,11 +1,11 @@
 # Agile Fundamentals
 
-## Course Introduction
-
 - [Agile Manifesto Values](https://www.youtube.com/embed/rf8Gi2RLKWQ?rel=0&autoplay=1)
 - [Agile Fundamentals: The 12 Agile Principles](https://www.youtube.com/watch?v=5jCc2KByx60)
 
-### 🔹 Agile Values and Principles
+## 🔹 Course Introduction
+
+### 🔺 Agile Values and Principles
 
 1. What are some of the challenges with waterfall methods that prompted the software industry to come up with alternatives like agile? Select three.
 
@@ -47,5 +47,6 @@
   - ❌ Business people also need to code together with developers to make faster progress.
 
   > True. Agile methodologies attempt to "[maximize] the amount work not done" and "respond to change" by only writing down what they needs to satisfy the requirements they will be working on in the near-term. Thus, agile teams depend on the business people (e.g., marketing and sales) to communicate customer needs.
-  
-###  
+
+## 🔹 Applying Agile Mindset
+###  🔺
