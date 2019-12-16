@@ -5,6 +5,8 @@
 
 ## 🔹 Course Introduction
 
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Principles%20behind%20Agile%20Manifesto.png" width="572" height="313">
+
 ### 🔺 Agile Values and Principles
 
 1. What are some of the challenges with waterfall methods that prompted the software industry to come up with alternatives like agile? Select three.
@@ -49,4 +51,7 @@
   > True. Agile methodologies attempt to "[maximize] the amount work not done" and "respond to change" by only writing down what they needs to satisfy the requirements they will be working on in the near-term. Thus, agile teams depend on the business people (e.g., marketing and sales) to communicate customer needs.
 
 ## 🔹 Applying Agile Mindset
-###  🔺
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Agile%20Principles%20Recap.png" width="353" height="322">
+
+### 🔺
