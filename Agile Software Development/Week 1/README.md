@@ -54,4 +54,32 @@
 
 <img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Agile%20Principles%20Recap.png" width="353" height="322">
 
+### 🔺Using Agile Methods
+
+1. What are some of the benefits organizations have seen from using agile methods? Select five.
+
+  - ✅ Project Visibility
+  - ✅ Increased productivity
+  - ❌ Increased project governance
+  - ✅ Increased Team Morale
+  - ✅ Improved Business / IT Alignment
+  - ✅ Better Software Quality
+  > https://explore.versionone.com/state-of-agile/versionone-11th-annual-state-of-agile-report-2 (See Page 9)
+
+2. The agile principle of "Deliver working software frequently" helps with which of the following challenges of predictive model? Select two.
+
+  - ❌ It helps prevent change
+  - ✅ It helps validate user needs.
+  > By delivering software frequently, a team can get feedback from users and validate if what they delivered will fulfill user needs or they need something different
+  - ✅ It helps detect translation issues.
+  > By delivering software frequently, a team can get feedback from users and validate if the team understood the requirements correctly
+  
+3. What new challenges does agile bring? Select two.
+
+  - ✅ Very uncomfortable for leaders because of unpredictable journey
+  > In many organization, leaders like to know what will delivered when and what is the return on their investment. In agile, teams embrace change and it makes journey little unpredictable.
+  - ❌ Agile eliminates all documentation hence makes it very difficult to use the software
+  - ✅ Architecture/Design/Database modeling is challenging
+  > Is it easier to manage the architecture / design and database modeling if things are changing or when it remain stable? In agile, change is welcomed.
+  
 ### 🔺
