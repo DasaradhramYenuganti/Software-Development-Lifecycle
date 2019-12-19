@@ -81,5 +81,32 @@
   - ❌ Agile eliminates all documentation hence makes it very difficult to use the software
   - ✅ Architecture/Design/Database modeling is challenging
   > Is it easier to manage the architecture / design and database modeling if things are changing or when it remain stable? In agile, change is welcomed.
+
+_________________________________
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Agile%20Project%20Journey.png" width="718" height="481">
+ 
+### 🔺 Applying an Agile Mindset
+
+1. What are some of the tactics / concepts you can use to implement agile mindset? Choose two.
+
+  - ❌ Create lot of meetings to increase collaboration
+  - ✅ To keep the cost of change down, use engineering practices like automated tests, continuous integration, incremental design
+  > Engineering practices like automated tests, continuous integration, incremental design helps you keep cost of change low because you are more confident to make your changes. Why? because you know that if your change break any part of code, automated tests will detect it.
+  - ✅ Build in small bite-sized chunks. These chunks could represent both iterative and incremental approach
+  > True. Agile recommend frequent delivery of software
+  - ❌ Don't waste too much time in documenting, planning or designing. Focus your time on coding and implementation always.
+
+2. If a developer says "we don't to do any discussion or upfront design" because we are agile", is he/she truely representing what agile means
+
+  - ❌ Yes, because in agile, we start coding right away
+  - ✅ No, agile does not mean start coding right away.
+
+3. When applying agile, we don't need to do any release planning.. We only plan for a week.
+
+  - ❌ True
+  - ✅ False
+  > Please see the video "Applying an agile mindset". Agile does not mean no design, no planning... Agile means just the right amount based on what we know so far and what is needed for upcoming work.
   
-### 🔺
+## 🔹 Agile Fundamentals
+
