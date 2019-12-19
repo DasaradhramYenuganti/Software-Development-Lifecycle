@@ -110,3 +110,87 @@ _________________________________
   
 ## 🔹 Agile Fundamentals
 
+1. Which of the following statements align with the value "Working software over comprehensive documentation” of Agile manifesto?
+
+  - ❌ A manager tells the team: “Writing certain documentation is company policy so we must create them irrespective of its use.
+  - ✅ If documentation is absolutely essential then create it.
+  > As per manifesto, we value things on the left MORE than the things on the right. Please refer the reading : Agile Manifesto Explained
+  - ✅ Value delivering software over writing documentation.
+  > As per manifesto, we value things on the left MORE than the things on the right. Please refer the reading : Agile Manifesto Explained
+  - ❌ An agile coach says to the team “Documentation is of no use.”
+
+2. Which of the following are true about Agile Manifesto? (select any 2)
+
+  - ✅ The Agile Manifesto is work in progress and we are continuing to learn.
+  > Please see the video on "Why Agile?" The Manifesto starts with "We are uncovering better ways of developing software...."
+  - ✅ The Agile Manifesto consists of 4 values and 12 principles.
+  > Please see http://agilemanifesto.org/
+  - ❌ Agile Manifesto was primarily based on theoretical knowledge
+  - ❌ The Agile Manifesto specifies exact practices and processes that agile teams are expected to follow
+
+3. Which one of the following statements/situations/conversations align with an agile mindset?
+
+  - ❌ A software vendor says to a client: "We must define exactly what the user needs and put that in the agreement."
+  - ❌ A manager providing a status update to a customer says: “We are done with requirements and design so we are 50% done.”
+  - ❌ A manager e-mails her team: “Meeting face to face just for a 15 minute discussion is inefficient, let us all just dial-in from our desk.”
+  - ✅ Manager: “The customer is suggesting another change in feature X which is complete according to the specification. They agree that it was built as we agreed upon but it lacks some functionality and will result in user frustration. Should we implement the change or not?”
+  Developer: “Yes, if it does not fulfill user needs, we should make the change."
+  > Please see video on "Agile Manifesto: Agile principles". With an agile mindset, we value responding to change over following a plan.
+
+4. Why is it difficult to predict user needs and requirements? (select any 3)
+
+  - ❌ There is not enough time spent on requirements. If we spend more time early, we can define requirements very accurately.
+  - ✅ Sometime the market shifts from time when the requirements were originally defined.
+  - ✅ Difficult to understand user needs.
+  - ✅ Translation issues. Requirements are misinterpreted.
+  > Please see video "Why Agile?" A lot of times written requirements are misinterpreted by the reader because people have different contexts. It is very difficult to articulate user needs and requirements in words.
+  
+5. Which of the following statements align with following Agile Principle:
+
+**_"Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale"_**
+
+  - ❌ We MUST release software to actual users every couple weeks.
+  - ✅ We should frequently deliver software in some environment (not necessarily to production always) to gather user/client feedback
+  - ❌ We should NOT release software to a production environment on a shorter timeframe. We should ONLY release it in lower environment (e.g., a test environment).
+  > Please see video on "Agile Manifesto: Agile Principles". Although it is desirable to release software to actual users as quickly as possible, Is it a MUST to deliver software to users or is it enough to deliver in an enviornment where we can get some feedback?
+  
+6. Which of the following align with this principle:
+
+**_"Working software is the primary measure of progress."_**
+
+  - ❌ On a 10 month project, the team has been working for 5 months. Thus, the project is 50% complete.
+  - ✅ If a team has delivered 5 features out of 10 features (or stories), team has made progress (they are more than 0% done)
+  - ❌ If a team has written the requirements and done the design for 5 out of 10 stories, then the team has made some progress (they are more than 0% done)
+  > Please see video on "Agile Manifesto: Agile Principles". Since the team has delivered functionality, did they make any progress in terms of delivering working software?
+  
+7. In which of the following situations, would you **NOT** recommend using an agile process?
+
+  - ❌ For a project where the customer has an idea of what they want to build but is not sure of his/her exact needs.
+  - ❌ For a project where requirements are well known but the technology and solution are unknown (i.e., changes expected in the solution).
+  - ✅ For a project where change is not expected. requirements are well known, and the solution is both well known and repeatable.
+  - ❌For a project where the customer wants to build an e-commerce website but the development team has never done something like this before. Further, the company knows that they want to build an e-commerce website but are not sure about the functionality at this time.
+
+8. Which of the following is true for agile projects?
+
+  - ✅ An agile methodology may help a team to go to market early by delivering with limited functionality.
+  - ❌ Agile methods do not require rework because the team knows exactly what they building. No refactoring of code is needed.
+  - ❌ Scrum is the best way to implement agile.
+  - ❌ If somebody says, they use an agile methodology, they must be doing either Scrum or XP.
+  > Since the key focus is to deliver working software, the agile mindset recommends delivering working software continuously. This means if the minimum functionality required to go to market is done, we can release the product while additional functionality is being built.
+
+9. One of the core principles of agile is to "Embrace Change". This makes architecting and designing the system challenging since you don't know all of the requirements upfront. Thus, you have to be prepared to make architecture and design changes. To effectively embrace change, agile teams must learn how to keep the cost of change low.
+
+From the options below, select the ones that can help mitigate this challenge. (Select 3)
+
+  - ✅ Keep the code clean and continuously improve/refactor the design as needed. Don't delay these changes for later.
+  - ✅ Keep design simple and just build what is required. It is easier to change a simple design than to update a complicated design.
+  - ✅ Automated Regression testing provides faster feedback which helps you detect defects quickly. This in turn, gives you confidence to make changes.
+  - ❌ Try to define as many requirements as you can at the beginning of the project, and spend a good amount of time designing the system.
+
+10. Which of the following is true for a typical agile project? (select 2)
+
+  - ❌ No discussion sessions happen around what we want to build. We start with coding.
+  - ✅ The team talks about the high-level software architecture / design as well as their approach for building software (the release plan) before directly jumping into coding.
+  - ❌ The team does a detailed design before starting to code.
+  - ✅ If required, the team may need to plan and conduct training, etc. for users before launching the system.
+  - ❌ Release planning is never required on an agile project. We only plan for a day or for a week at the most.
