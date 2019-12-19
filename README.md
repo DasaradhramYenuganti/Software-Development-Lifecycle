@@ -20,4 +20,7 @@
  ## Agile Software Development
   
  - [Week 1](https://github.com/ElizaLo/Software-Development-Lifecycle/tree/master/Agile%20Software%20Development/Week%201)
+    - Agile Fundamentals
  - [Week 2](https://github.com/ElizaLo/Software-Development-Lifecycle/tree/master/Agile%20Software%20Development/Week%202)
+    - Requirements and Planning
+ -
