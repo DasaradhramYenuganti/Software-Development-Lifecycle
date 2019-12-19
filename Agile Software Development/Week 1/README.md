@@ -84,7 +84,7 @@
 
 _________________________________
 
-<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Agile%20Project%20Journey.png" width="718" height="481">
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Agile%20Project%20Journey%201.png" width="718" height="481">
  
 ### 🔺 Applying an Agile Mindset
 
