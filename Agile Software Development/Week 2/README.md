@@ -79,3 +79,61 @@ _________________________
 
 ### 🔺 Gathering User Needs
 
+1. The goal of a story writing workshop is to:
+
+  - ❌ Write as many foundational stories as possible.
+  - ❌ Write as many user stories as possible in priority order.
+  - ✅ Write as many user stories as possible under the themes identified.
+  - ❌ Write as many themes as possible.
+  > True. The goal is generate as many stories as we can for a given theme
+  
+2. What are some of the valid ways to handle non-functional requirements in agile development? Select two.
+
+  - ❌ Delay handling non-functional requirements until the end and then work on them after development is done.
+  - ✅ Add non-functional requirements to the definition of done for all stories.
+  > True. For example, browser compatibility can be enforced by updating the Definition of Done to ensure every story is be tested against target browsers prior to marking the story complete.
+  - ✅ Create specific stories that outline the non-functional needs with clear acceptance criteria.
+  > True. In cases where a non-functional requirement pertains to a specific part of the system, the requirement can be written as a story.
+  
+3. Which of the following are true about story writing workshops? Select two.
+
+  - ❌ All stories created have to be at the same level.
+  - ✅ A story writing workshop can take anywhere between a few hours to a few days.
+  > True. Watch video "Generating User Stories"
+  - ✅ The whole team (including the product owner, the scrum master, and the development team) participates in the story writing workshop.
+  > True. Watch video "Generating User Stories"
+
+4. What are some of the ways a story map can help software development? Select all that apply.
+
+  - ✅ It organizes and prioritizes the story backlog.
+  > True. A story map is a meaningful way to organize and visualize stories. Watch video "Generating User Stories"
+  - ✅ It builds a shared understanding among team members.
+  > True. Since we talk from the user's perspective and involved whole team in the exercise, we establish a common understanding among all team members. Watch video "Generating User Stories"
+  - ✅ It helps discover user needs.
+  > True. Watch video "Generating User Stories"
+  - ✅ It helps communicate user needs with the stakeholders and get feedback.
+  > True. It can be used to communicate and get feedback. Watch video "Generating User Stories"
+  - ✅ It helps plan releases and work.
+  > True. You can create meaningful releases using a story map. Watch video "Generating User Stories"
+  
+5. What are some of the activities you expect to see in a story mapping exercise? Select three.
+
+  - ✅ Plan releases/journeys.
+  > True. Once a story map is done, we can select a set of stories to make-up the next release. Watch video "Generating User Stories"
+  - ❌ Randomly write a story and its details.
+  - ✅ Find variations in the paths the user can take through the system.
+  > True. Once we have the basic flow covered, we do additional rounds of discussion to discover the different paths a user can take through the system. Watch video "Generating User Stories"
+  - ✅ Find gaps in the story map by walking through the user experience (as expressed in the activities/tasks) aloud.
+  > True. One of the step is to talk aloud through story map to detect if we missed any steps. Watch video "Generating User Stories"
+  
+6. What are the characteristics of good product backlog? Select four.
+
+  - ✅ Prioritized
+  - ❌ Every story is assigned to developer
+  - ✅ Emergent
+  - ❌ Complete with design details
+  - ✅ Detailed appropriately
+  - ✅ Estimated
+
+## 🔹 Agile Estimation and Planning
+
