@@ -163,3 +163,88 @@ _______________________________________
 ### 🔺 Agile Estimation
 
 
+1. Who estimates the effort to complete a product backlog item (a user story)?
+
+  - ✅ The scrum development team after clarifying the requirement.
+  - ❌ The scrum master with input from the scrum development team.
+  - ❌ The most senior people in the organization such as the engineering managers and the chief architect.
+  - ❌ The product owner with input from the scrum development team.
+  > True. Ideally, we want the development team that is going to implement the stories to estimate the work. Of course, they will need to clarify requirements to make sure they are building the thing that was expected in the story.
+  
+2. What is true about Agile Estimation techniques? Select two.
+
+  - ✅ Estimates are shared.
+  > True. Agile techniques support collaborative methods of estimation resulting in shared estimates.
+  - ✅ They estimate effort and not duration.
+  > When stories are estimated, do you think team think about duration of the story or amount of effort it will take? Watch video "Agile Estimation and Planning"
+  - ❌ No planning, No estimation. It is considered non productive activity.
+  - ❌ The senior-most person should create estimates and get feedback from team members.
+
+3. In following scenario which type of estimation was used?
+
+**_"It takes 3 days to implement 1 screen so it will take 30 days to implement 10 screens."_**
+
+  - ✅ Parametric
+  - ❌ Analogous
+  - ❌ Top down
+  - ❌ Expert Opinion
+  > True. Since we are estimating based on number of units, it is a parametric estimation
+
+4. Which of the following estimates represents concept of relative sizing? Select three.
+
+  - ❌ Story A will take 1.5 ideal days, Story B will take 5 ideal days and Story C will take 3.5 Ideal Days
+  - ❌ Story A will take 1 day, Story B will take 5 Days and Story C will take 10 days
+  - ✅ Story A will take half the time Story B will take. Story C will take double the time Story A will take.
+  > Relative sizing because story estimates are specified relative to each other.
+  - ✅ Story A is 1 apple, Story B is 5 apples, and Story C is 10 apples
+  > Relative sizing because stories are estimated in arbitrary unit of "Apple".
+  - ✅ Story A is bigger than Story B. Story C is smaller than Story A.
+  > Relative sizing because story estimates are specified relative to each other.
+
+5. What is true about the planning poker estimation technique? Select three.
+
+  - ✅ It helps uncover misunderstandings.
+  > True. In planning poker, if the estimates of two individuals are far apart, it may be due to different understandings of the story. This results in further discussion of the story and helps build a shared understanding.
+  - ✅ Everyone involved in development has to participate in estimation.
+  > True. In planning poker, everybody has to show their estimate.
+  - ❌ It is a superfast technique to estimate lots of stories in a short amount of time.
+  - ✅ It supports the concept of shared estimates.
+  > Since everybody participates in estimation, it helps create estimates that are shared by all team members.
+
+6. Which of the following observations are true about Card Sorting? Select two.
+
+  - ✅ It is very useful for estimating a large number of stories.
+  > True. In this method, a large number of stories can be estimated in a short amount of time.
+  - ❌ It is a very inaccurate method of estimation.
+  - ✅ This technique benefits from using relative sizing.
+  > Since we are estimating many stories, we use relative sizing to order stories from small to large in size.
+  - ❌ Not everybody on the development team participates in this method.
+
+7. What is true about estimation using Ideal Days? Select two.
+
+  - ❌ It is relative sizing technique.
+  - ❌ It is very fast to estimate.
+  - ✅ It is very natural for a new team member to understand.
+  > True. Since it is absolute, a new team member does not need to understand the scale used by the team.
+  - ✅ It has a potential issue of "My ideal days are not your ideal days".
+  > True. When you estimate in ideal days, estimates by an expert may be very different than a novice for same story.
+
+8. In following scenario which type of estimation was used?
+
+**_Product P consists of component A, B and C._**
+
+
+- **_Component A is estimated to take 3 days._**
+
+- **_Component B is estimated to take 4 days._**
+
+- **_Component C is estimated to take 2 days._**
+
+- **_So Estimate for Product P is 9 days._**
+
+
+  - ✅ Bottom-up Estimation
+  - ❌ Parametric
+  - ❌ Analogous
+  - ❌ Top-down Estimation
+  > In bottom-up estimation, we start from the bottom and aggregate results at higher level
