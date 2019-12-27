@@ -137,3 +137,9 @@ _________________________
 
 ## 🔹 Agile Estimation and Planning
 
+|||
+|---|---|
+|**Agile Planning**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Agile%20Planning.png" width="253" height="137">|
+|**Agile Estimation**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Agile%20Estimation.png" width="238" height="100">|
+|**Relative vs Absolute**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Relative%20vs%20Absolute.png" width="521" height="326">|
+
