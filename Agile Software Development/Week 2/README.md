@@ -17,7 +17,7 @@
 
 --------------
 
-### 🔺User Stories
+### 🔺 User Stories
 
 1. What of the following are the qualities of good user story as mentioned in the **INVEST** model? Choose three.
 
@@ -64,3 +64,16 @@
   > To keep team focused, spike stories should have well defined criteria.
   - ✅ Spike stories are timeboxed.
   > To keep the team focused and make sure we are investing a judicious amount on research, spike stories are timeboxed.
+
+
+### 🔺 Generating User Stories
+
+|||
+|---|---|
+|**Characteristics of good product backlog**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Good%20product%20backlog.png" width="570" height="340">|
+|**Example of Acceptance Test**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Example%20of%20Acceptance%20Test.png" width="625" height="375">|
+|**INVEST**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/INVEST.png" width="404" height="296">|
+
+_________________________ 
+
+### 🔺 Gathering User Needs
