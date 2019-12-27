@@ -144,3 +144,19 @@ _________________________
 |**Agile Estimation**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Agile%20Estimation.png" width="238" height="100">|
 |**Relative vs Absolute**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Relative%20vs%20Absolute.png" width="521" height="326">|
 
+### 🔺 Estimation Styles and Process
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Planning%20Pocker.png" width="659" height="425">
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/PL%20(Pros%20and%20Cons).png" width="445" height="322">
+
+________________________________________
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Card%20Sorting%201.png" width="714" height="435">
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Card%20Sorting%202.png" width="703" height="417">
+
+_______________________________________
+
+
+
