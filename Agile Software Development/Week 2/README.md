@@ -5,7 +5,7 @@
 ### 🔺 Gathering Requirements: The agile way
 |||
 |---|---|
-|**Story process**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/3C.png" width="606" height="445">|
+|**Story process**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/3C.png" width="635" height="356">|
 
 ### 🔺User Stories: The currency of agile development
 
@@ -13,7 +13,7 @@
 |---|---|
 |**Template of User Stories**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Template.png" width="570" height="340">|
 |**Example of Acceptance Test**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Example%20of%20Acceptance%20Test.png" width="625" height="375">|
-|**INVEST**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/INVEST.png" width="570" height="340">|
+|**INVEST**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/INVEST.png" width="404" height="296">|
 
 --------------
 
@@ -64,6 +64,3 @@
   > To keep team focused, spike stories should have well defined criteria.
   - ✅ Spike stories are timeboxed.
   > To keep the team focused and make sure we are investing a judicious amount on research, spike stories are timeboxed.
-
-
-
