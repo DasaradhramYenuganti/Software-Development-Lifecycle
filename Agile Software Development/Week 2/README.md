@@ -70,10 +70,12 @@
 
 |||
 |---|---|
-|**Characteristics of good product backlog**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Good%20product%20backlog.png" width="570" height="340">|
-|**Example of Acceptance Test**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Example%20of%20Acceptance%20Test.png" width="625" height="375">|
-|**INVEST**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/INVEST.png" width="404" height="296">|
+|**Characteristics of good product backlog**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Good%20product%20backlog.png" width="305" height="163">|
+|**User story Writing Workshop**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/User%20story%20Writing%20Workshop.png" width="693" height="350">|
+|**Story Map Structure**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Story%20Map%20Structure.png" width="404" height="271">|
+|**Story Map Example**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Story%20Map%20Example.png" width="845" height="457">|
 
 _________________________ 
 
 ### 🔺 Gathering User Needs
+
