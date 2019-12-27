@@ -146,6 +146,8 @@ _________________________
 
 ### 🔺 Estimation Styles and Process
 
+- [ ] [Agile Estimating and Planning: Planning Poker - Mike Cohn](https://www.youtube.com/watch?v=MrIZMuvjTws)
+
 <img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Planning%20Pocker.png" width="659" height="425">
 
 <img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/PL%20(Pros%20and%20Cons).png" width="445" height="322">
@@ -158,5 +160,6 @@ ________________________________________
 
 _______________________________________
 
+### 🔺 Agile Estimation
 
 
