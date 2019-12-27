@@ -137,6 +137,7 @@ _________________________
 
 ## 🔹 Agile Estimation and Planning
 
+### 🔺 Agile Estimation and Planning
 |||
 |---|---|
 |**Agile Planning**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Agile%20Planning.png" width="253" height="137">|
