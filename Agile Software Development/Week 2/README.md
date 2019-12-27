@@ -5,7 +5,7 @@
 ### 🔺 Gathering Requirements: The agile way
 |||
 |---|---|
-|**Story process**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/3C.png" width="635" height="258">|
+|**Story process**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/3C.png" width="606" height="445">|
 
 ### 🔺User Stories: The currency of agile development
 
@@ -13,12 +13,13 @@
 |---|---|
 |**Template of User Stories**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Template.png" width="570" height="340">|
 |**Example of Acceptance Test**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Example%20of%20Acceptance%20Test.png" width="625" height="375">|
+|**INVEST**|<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/INVEST.png" width="570" height="340">|
 
 --------------
 
 ### 🔺User Stories
 
-1. What of the following are the qualities of good user story as mentioned in the INVEST model? Choose three.
+1. What of the following are the qualities of good user story as mentioned in the **INVEST** model? Choose three.
 
   - ✅ Independent: Dependencies among stories should be minimized
   - ❌ Natural: Stories should feel intuitive to the user
