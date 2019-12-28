@@ -248,3 +248,40 @@ _______________________________________
   - ❌ Analogous
   - ❌ Top-down Estimation
   > In bottom-up estimation, we start from the bottom and aggregate results at higher level
+  
+  -------------------------------
+  
+  ### 🔺 Velocity
+
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Calculating%20Velocity.png" width="713" height="429">
+
+-------------------------------
+
+ ### 🔺 Release Planning
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Release%20Planning.png" width="402" height="215">
+
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Fixed%20Scope%20Release.png" width="488" height="277">
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Fixed%20Scope%20Release%20(Example).png" width="641" height="369">
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Fixed%20Date%20Release.png" width="487" height="245">
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Fixed%20Date%20Release%20(Example).png" width="407" height="301">
+
+---------------------------------
+
+### 🔺 Release Tracking
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Release%20Burnup.png" width="556" height="400">
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Story%20Board.png" width="470" height="314">
+
+<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%202/Cumulative%20Flow%20Diagram.png" width="502" height="395">
+
+-------------------------
+
+### 🔺 Release Planning and Tracking
+
