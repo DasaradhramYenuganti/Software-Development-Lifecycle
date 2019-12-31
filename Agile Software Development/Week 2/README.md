@@ -285,3 +285,73 @@ _______________________________________
 
 ### 🔺 Release Planning and Tracking
 
+1. Calculate the velocity range a team should use to select work for next iteration based on their past velocities (see chart below). The team uses the last 5 iterations to estimate their velocity. Use format "from-to" to specify the answer (e.g., 0-100).
+
+Table 1: The velocity of previous iterations
+
+|Iteration|Story points completed|
+|:---:|:---:|
+|1|14|
+|2|18|
+|3|23|
+|4|17|
+|5|15|
+|6|21|
+|7|22|
+|8|20|
+
+**15-22**
+
+> Since there are no anomalies, the velocity range is the minimum velocity to the maximum velocity of the last 5 iterations (iterations 4 to 8).
+
+2. A team was doing release planning and they decided that the next release will include all stories from Story 1 to Story 11 (see table 2 below).
+
+- The velocity range to be used for the release planning is 15-22.
+- The team works in a 2 week iteration.
+- It costs about $50,000 per iteration to fund the entire team.
+
+Calculate the estimated duration for next release. Additionally, how much will this release cost?
+
+Table 2: Prioritized Product Backlog
+
+
+  - ✅ Duration: 6-8 weeks, Cost: 150K to 200K
+  - ❌ Duration: 3-4 weeks, Cost: 150K to 200K
+  - ❌ Duration: 10-14 weeks, Cost: 500K to 700K
+  - ❌ Duration: 6-8 weeks, Cost: 300K to 400K
+
+Total estimate of stories from S1 to S11 = 58
+
+With velocity 15, it will take 58 / 15 => 4 iterations => 8 weeks
+
+With velocity 22, it will take 58/22 => 3 iterations => 6 weeks
+
+So duration is 6-8 weeks
+
+Since it costs $50K per iteration, it will cost between:
+
+$50K * 3 iterations = $150K and $50K * 4 iterations = $200K
+
+3. Select scenarios below where the team used the correct approach to handle special cases of team velocity.
+
+
+  - ❌ A new team member is going to join the team in the next iteration, so the team adjusted their velocity appropriately and selected more work to do in the iteration
+  - ✅ To forecast velocity for first iteration,
+      - 1) the team builds deeper understanding of few stories from the backlog
+      - 2) From the understood stories, they select stories they feel they can get done in one sprint.
+      - 3) The sum the estimates of the selected stories is the team's forecasted velocity.
+  > Correct. This is a decent strategy for forecasting velocity.
+  - ❌ The team is getting more defects / support work so they are not able to finish the stories selected for the current sprint. The team estimated that it takes 30% of team capacity to handle support work. The team decided to reduce velocity by 30% and use it for future iteration.
+  - ✅ One of the team members is taking a couple days off in next iteration, but the team didn't adjust its velocity to reflect that.
+  > Correct. Since we don't know the exact impact of a team member taking some time off and there will always be somebody taking a couple days off, let the velocity take care of it.
+  
+4. Which of the following methods can help you track a release? (select any 2)
+
+ - ✅ A cumulative flow diagram for a release
+ > True. A cumulative flow diagram (if it only includes stories for the release) shows the progress (completed stories) against the total amount of work, so it can help track a release. In addition, it can help you understand story lead and cycle times.
+ - ✅ A release burn-up chart
+ > True. A release burn-up chart shows the progress (work done) against the total amount of work in a release.
+ - ❌ An iteration burn-down chart
+ - ❌ A weekly status report
+ 
+ ## 🔹 Requirements and Planning
