@@ -355,3 +355,93 @@ $50K * 3 iterations = $150K and $50K * 4 iterations = $200K
  - ❌ A weekly status report
  
  ## 🔹 Requirements and Planning
+
+1. What is true about user stories in Agile Software Development?
+
+  - ✅ User stories are tokens for conversations.
+  - ❌ To be valid, a story MUST follow the following syntax template: "As a ____ I want to _______________ so that ____________________ ."
+  - ✅ Stories can be written at different levels and can be refined and split into smaller stories as you move from vague idea to implemented software.
+  - ❌ All stories have to be the same size.
+  - ✅ User stories are used to plan, design, describe, build, and validate your product.
+  > Watch video "User Stories: The currency of agile development". User stories are the primary unit around which all of agile development revolves. You define user requirements as user stories, you estimate them, and you create plans based on them. Software is built story by story.
+  
+2. What are some of the benefits of writing acceptance tests for a story?
+
+  - ✅ They help the product owner (who is writing the story) think through the user needs.
+  - ❌ They make sure the story is easy to develop.
+  - ✅ They help you write tests cases for the story.
+  > Watch video "User Stories: The currency of agile development". Acceptance tests provide an idea as to what do we need to validate.
+  - ✅ They help build a common understanding between team members.
+  - ✅ They can potentially help you split stories, if required.
+
+3. What is wrong with the following story?
+
+**_"As a product owner, I want a list of highly-rated restaurants on the brochure."_**
+
+  - ✅ It doesn't specify the value of the story (the "why" is missing).
+  > True. The story is missing the "so that" part of the story.
+  - ✅ The user who benefits from this story is missing (the "who" is missing).
+  > True. The Product Owner is the person writing the user story not the type of user who wants the list of highly-rated restaurants.
+  - ❌ The story is not small.
+  - ❌ The story is not negotiable.
+
+4. What is wrong with following user story?
+
+**_"I want the software to be easy to use."_**
+
+  - ✅ It is not testable.
+  > True. It does not describe what "easy to use" means.
+  - ❌ The story is not valuable.
+  - ❌ The story is very big.
+  - ✅ No valid user is identified.
+  > It does not specify the user this story is written for.
+
+5. How is gathering user needs / requirements different on an agile project?
+
+  - ✅ At any given time, the level of detail may be different for different parts of the software.
+  - ✅ The agile way supports progressive refinement---defining the right level of detail at the right time.
+  - ✅ Agile encourages conversations as a key method for building a shared understanding.
+  - ❌ In agile, we don't waste time on understanding user needs. Instead, we build something, show it to the user, and learn.
+
+6. What are some of the activities that happen during a User Story Writing Workshop?
+
+  - ✅ User role analysis and defining personas
+  - ✅ To generate stories, one of the options is to start from the top down or bottom up.
+  - ✅ Sometimes, you keep it free-form for people to write stories and later group them by theme.
+  - ❌ The leaders from the organization lay out exactly what needs to be built.
+  - ✅ Everybody silently writes user stories around a theme
+
+7. Which of the following are true about the Story Mapping technique? (select 3)
+
+  - ✅ It is a user-centric approach where we map out the system from a user's perspective.
+  > Do we focus on the user when developing a story map? Watch video "Generating User Stories"
+  - ❌ Only the product owner and users attend the story mapping exercise.
+  - ✅ The horizontal axis (moving from left to right) in a story map represents time.
+  - ✅ The vertical axis (moving from top to bottom) in a story map represents rough priority.
+  - ❌ One story map can only have one user. It is not recommended to have multiple users on same story map.
+
+8. Due to an unpredictable market event, the Product Owner (PO) asked the team to complete the next release in 6 weeks. Assuming the backlog in Table 2 is up to date and prioritized from highest to lowest, the Product Owner wants you to estimate what can be done in next 6 weeks. Describe 1) what can be done, 2) what might be done, and 3) what will not be done.
+
+  - The velocity range to be used for the release planning is 15-22.
+  - The team works in 2 week iteration.
+  
+Table 2: Prioritized Product Backlog
+
+  - ✅ Most likely: Story 1 to Story 8; Might Be Done: Story 9 to Story 13; Not likely: Rest of the stories
+  - ❌ Most likely: Story 1 to Story 9; Might be Done: Story 10; Not likely: Rest of the stories
+  - ❌ Most likely: Story 1 to Story 11; Might be Done: Story 12 and 13; Not likely: Rest of the stories
+  > Correct! You calculated the total number of story points you could complete with the minimum velocity (15) in 6 weeks (3 iterations), and did the same with the maximum velocity (22). You then used those values to see what you can do and not do.
+
+9. What is true about planning with an agile mindset?
+
+  - ✅ Use Adaptive Planning.
+  - ❌ Planning is mostly done by project manager.
+  - ❌ Plan as little as you can. Planning is considered a non-productive activity.
+  - ✅ Plan just enough, just in time.
+
+10. What do we mean by Velocity in agile terms?
+
+  - ❌ It is calculated at the team level and represents the estimated duration of current iteration.
+  - ✅ It is calculated at the team level and represents how much work a team can get done in an iteration.
+  - ❌ It is a velocity of the individual team members, not the team
+  - ❌ It represents actual work done in the first iteration of project.
