@@ -26,6 +26,3 @@
 
 <img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%203/Task%20Board.png" width="731" height="432">
 
-|||
-|---|---|
-|||
